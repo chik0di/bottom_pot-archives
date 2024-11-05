@@ -18,3 +18,12 @@ https://finance.yahoo.com/markets/stocks/most-active/
 
 
 https://www.scrapethissite.com/pages/ajax-javascript/
+
+
+https://jiji.ng/real-estate - [Jiji Real Estate](./Jiji%20Real%20Estate/scrapebook.ipynb)
+
+
+https://nigeriapropertycentre.com/for-sale/houses/showtype - [Nigeria Property Centre](./Nigeria%20Property%20Centre/scrapebook.ipynb)
+
+
+https://www.adamchoi.co.uk/overs/detailed - [The PyCoach Yt](./The%20PyCoach%20YT/beginnium.ipynb)
