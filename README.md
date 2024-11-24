@@ -1,4 +1,4 @@
-Just For Practice 
+Just For Practice.
 
 ### A List of Webpages Scraped 
 
