@@ -29,4 +29,4 @@ https://nigeriapropertycentre.com/for-sale/houses/showtype
 https://www.adamchoi.co.uk/overs/detailed 
 
 
-https://jiji.ng/cars 
+https://jiji.ng/cars
