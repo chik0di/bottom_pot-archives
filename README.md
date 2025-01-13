@@ -1,34 +1,24 @@
-Just For Practice.
+## Overview
+This repository is a collection of Jupyter Notebooks (i refer to as "Scrapebooks") designed for web scraping various websites. Each folder contains specific scrapebooks that use popular web scraping libraries to extract, clean, and save data.
 
-### A List of Webpages Scraped 
+Whether you’re scraping product data, social media insights, or news articles, this repo has you covered with examples tailored for different use cases.
 
-https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
+## Features 
+### Library Variety: Uses libraries like:
+- BeautifulSoup: For HTML parsing and DOM traversal.
+- Selenium: For browser automation and dynamic content scraping.
+- Scrapy: For robust, scalable scraping workflows.
+- Requests: For efficient HTTP requests.
 
+### Structured Workflow: 
+Each folder contains scrapebooks targeting specific sites/domains or use cases. It also contains the CSV or JSON format of scraped data.
 
-https://books.toscrape.com/
+### Reusable Components
+Modularized code for request handling, parsing, and exporting.
 
- 
-https://www.scrapethissite.com/pages/simple/
+### Dynamic Content Handling
+Examples include handling JavaScript-rendered pages with Selenium.
 
-
-https://www.scrapethissite.com/pages/forms/
-
-
-https://finance.yahoo.com/markets/stocks/most-active/
-
-
-https://www.scrapethissite.com/pages/ajax-javascript/
-
-
-https://jiji.ng/real-estate
-
-
-https://nigeriapropertycentre.com/for-sale/houses/showtype
-
-
-https://www.adamchoi.co.uk/overs/detailed 
-
-
-https://jiji.ng/cars
-
-https://schoolsenate.com/admission/full-list-of-federal-government-colleges-unity-schools-in-nigeria-by-state-and-geopolitical-zones/
+## Technologies Used
+- Python 3.8+
+- Jupyter Notebooks
