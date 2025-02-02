@@ -6,10 +6,10 @@
         "Change": "-4.58",
         "Change %": "-3.67%",
         "Volume": "385.2M",
-        "Avg Vol (3M)": "236.221M",
-        "Market Cap": "3.053T",
-        "P/E Ratio (TTM)": "49.21",
-        "52 Wk Change %": "79.79%"
+        "Avg Vol (3M)": "238.753M",
+        "Market Cap": "2.941T",
+        "P/E Ratio (TTM)": "47.46",
+        "52 Wk Change %": "73.18%"
     },
     {
         "Symbol": "RGTI",
@@ -18,10 +18,10 @@
         "Change": "+0.87",
         "Change %": "+7.07%",
         "Volume": "199.93M",
-        "Avg Vol (3M)": "139.448M",
+        "Avg Vol (3M)": "140.465M",
         "Market Cap": "3.688B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "942.37%"
+        "52 Wk Change %": "1,016.10%"
     },
     {
         "Symbol": "INTC",
@@ -30,10 +30,10 @@
         "Change": "-0.58",
         "Change %": "-2.90%",
         "Volume": "116.226M",
-        "Avg Vol (3M)": "72.868M",
+        "Avg Vol (3M)": "73.605M",
         "Market Cap": "84.132B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-53.21%"
+        "52 Wk Change %": "-54.57%"
     },
     {
         "Symbol": "WBA",
@@ -42,10 +42,10 @@
         "Change": "-1.18",
         "Change %": "-10.30%",
         "Volume": "91.371M",
-        "Avg Vol (3M)": "24.566M",
+        "Avg Vol (3M)": "25.68M",
         "Market Cap": "8.883B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-48.29%"
+        "52 Wk Change %": "-53.61%"
     },
     {
         "Symbol": "F",
@@ -54,10 +54,10 @@
         "Change": "-0.08",
         "Change %": "-0.79%",
         "Volume": "92.763M",
-        "Avg Vol (3M)": "59.295M",
+        "Avg Vol (3M)": "60.035M",
         "Market Cap": "40.061B",
         "P/E Ratio (TTM)": "11.45",
-        "52 Wk Change %": "-12.34%"
+        "52 Wk Change %": "-13.03%"
     },
     {
         "Symbol": "TSLA",
@@ -66,10 +66,10 @@
         "Change": "+4.32",
         "Change %": "+1.08%",
         "Volume": "83.09M",
-        "Avg Vol (3M)": "90.929M",
+        "Avg Vol (3M)": "90.802M",
         "Market Cap": "1.301T",
-        "P/E Ratio (TTM)": "196.41",
-        "52 Wk Change %": "121.08%"
+        "P/E Ratio (TTM)": "200.30",
+        "52 Wk Change %": "123.46%"
     },
     {
         "Symbol": "LCID",
@@ -78,10 +78,10 @@
         "Change": "+0.0400",
         "Change %": "+1.47%",
         "Volume": "79.904M",
-        "Avg Vol (3M)": "88.683M",
+        "Avg Vol (3M)": "88.54M",
         "Market Cap": "8.312B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-15.53%"
+        "52 Wk Change %": "-14.29%"
     },
     {
         "Symbol": "AAPL",
@@ -90,10 +90,10 @@
         "Change": "-1.59",
         "Change %": "-0.67%",
         "Volume": "93.08M",
-        "Avg Vol (3M)": "49.212M",
-        "Market Cap": "3.573T",
-        "P/E Ratio (TTM)": "37.76",
-        "52 Wk Change %": "26.59%"
+        "Avg Vol (3M)": "50.074M",
+        "Market Cap": "3.545T",
+        "P/E Ratio (TTM)": "37.46",
+        "52 Wk Change %": "25.75%"
     },
     {
         "Symbol": "PLTR",
@@ -102,10 +102,10 @@
         "Change": "+1.27",
         "Change %": "+1.56%",
         "Volume": "78.52M",
-        "Avg Vol (3M)": "84.005M",
+        "Avg Vol (3M)": "83.917M",
         "Market Cap": "187.914B",
         "P/E Ratio (TTM)": "412.45",
-        "52 Wk Change %": "385.77%"
+        "52 Wk Change %": "393.36%"
     },
     {
         "Symbol": "BBD",
@@ -114,8 +114,8 @@
         "Change": "0.0000",
         "Change %": "0.00%",
         "Volume": "55.888M",
-        "Avg Vol (3M)": "38.625M",
-        "Market Cap": "19.975B",
+        "Avg Vol (3M)": "38.913M",
+        "Market Cap": "20.968B",
         "P/E Ratio (TTM)": "9.59",
         "52 Wk Change %": "-32.59%"
     },
@@ -126,10 +126,10 @@
         "Change": "-0.66",
         "Change %": "-4.01%",
         "Volume": "47.631M",
-        "Avg Vol (3M)": "48.689M",
-        "Market Cap": "18.008B",
-        "P/E Ratio (TTM)": "42.65",
-        "52 Wk Change %": "116.89%"
+        "Avg Vol (3M)": "48.675M",
+        "Market Cap": "17.285B",
+        "P/E Ratio (TTM)": "40.46",
+        "52 Wk Change %": "108.18%"
     },
     {
         "Symbol": "JBLU",
@@ -138,10 +138,10 @@
         "Change": "+0.26",
         "Change %": "+4.11%",
         "Volume": "46.869M",
-        "Avg Vol (3M)": "20.446M",
+        "Avg Vol (3M)": "20.887M",
         "Market Cap": "2.282B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "13.26%"
+        "52 Wk Change %": "17.92%"
     },
     {
         "Symbol": "NU",
@@ -150,10 +150,10 @@
         "Change": "-0.20",
         "Change %": "-1.49%",
         "Volume": "45.126M",
-        "Avg Vol (3M)": "40.512M",
+        "Avg Vol (3M)": "40.64M",
         "Market Cap": "63.639B",
         "P/E Ratio (TTM)": "36.78",
-        "52 Wk Change %": "44.98%"
+        "52 Wk Change %": "42.83%"
     },
     {
         "Symbol": "VALE",
@@ -162,10 +162,10 @@
         "Change": "-0.10",
         "Change %": "-1.06%",
         "Volume": "41.919M",
-        "Avg Vol (3M)": "32.385M",
-        "Market Cap": "39.656B",
+        "Avg Vol (3M)": "32.544M",
+        "Market Cap": "40.089B",
         "P/E Ratio (TTM)": "4.30",
-        "52 Wk Change %": "-28.54%"
+        "52 Wk Change %": "-29.30%"
     },
     {
         "Symbol": "SOUN",
@@ -174,10 +174,10 @@
         "Change": "+0.15",
         "Change %": "+1.07%",
         "Volume": "41.062M",
-        "Avg Vol (3M)": "75.052M",
+        "Avg Vol (3M)": "74.49M",
         "Market Cap": "5.565B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "758.90%"
+        "52 Wk Change %": "768.10%"
     },
     {
         "Symbol": "PFE",
@@ -186,10 +186,10 @@
         "Change": "-0.39",
         "Change %": "-1.45%",
         "Volume": "37.269M",
-        "Avg Vol (3M)": "43.485M",
+        "Avg Vol (3M)": "43.382M",
         "Market Cap": "150.289B",
         "P/E Ratio (TTM)": "35.36",
-        "52 Wk Change %": "1.28%"
+        "52 Wk Change %": "-0.19%"
     },
     {
         "Symbol": "PSLV",
@@ -198,10 +198,10 @@
         "Change": "-0.07",
         "Change %": "-0.66%",
         "Volume": "36.98M",
-        "Avg Vol (3M)": "13.247M",
+        "Avg Vol (3M)": "13.643M",
         "Market Cap": "5.453B",
         "P/E Ratio (TTM)": "3.41",
-        "52 Wk Change %": "39.76%"
+        "52 Wk Change %": "38.84%"
     },
     {
         "Symbol": "IP",
@@ -210,10 +210,10 @@
         "Change": "-1.42",
         "Change %": "-2.49%",
         "Volume": "36.748M",
-        "Avg Vol (3M)": "4.442M",
+        "Avg Vol (3M)": "4.98M",
         "Market Cap": "19.326B",
         "P/E Ratio (TTM)": "35.43",
-        "52 Wk Change %": "73.04%"
+        "52 Wk Change %": "68.73%"
     },
     {
         "Symbol": "SMCI",
@@ -222,10 +222,10 @@
         "Change": "-0.12",
         "Change %": "-0.42%",
         "Volume": "37.913M",
-        "Avg Vol (3M)": "71.719M",
+        "Avg Vol (3M)": "71.157M",
         "Market Cap": "16.7B",
         "P/E Ratio (TTM)": "14.19",
-        "52 Wk Change %": "-56.83%"
+        "52 Wk Change %": "-57.01%"
     },
     {
         "Symbol": "RIOT",
@@ -234,10 +234,10 @@
         "Change": "-0.02",
         "Change %": "-0.17%",
         "Volume": "37.948M",
-        "Avg Vol (3M)": "36.077M",
-        "Market Cap": "4.093B",
+        "Avg Vol (3M)": "36.114M",
+        "Market Cap": "4.086B",
         "P/E Ratio (TTM)": "79.20",
-        "52 Wk Change %": "15.09%"
+        "52 Wk Change %": "14.89%"
     },
     {
         "Symbol": "NIO",
@@ -246,10 +246,10 @@
         "Change": "-0.1200",
         "Change %": "-2.70%",
         "Volume": "36.769M",
-        "Avg Vol (3M)": "49.009M",
-        "Market Cap": "8.861B",
+        "Avg Vol (3M)": "48.814M",
+        "Market Cap": "9.108B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-17.47%"
+        "52 Wk Change %": "-19.70%"
     },
     {
         "Symbol": "AMD",
@@ -258,10 +258,10 @@
         "Change": "-2.91",
         "Change %": "-2.45%",
         "Volume": "40.373M",
-        "Avg Vol (3M)": "36.026M",
-        "Market Cap": "192.886B",
-        "P/E Ratio (TTM)": "105.41",
-        "52 Wk Change %": "-31.78%"
+        "Avg Vol (3M)": "36.1M",
+        "Market Cap": "188.165B",
+        "P/E Ratio (TTM)": "103.53",
+        "52 Wk Change %": "-33.45%"
     },
     {
         "Symbol": "IQ",
@@ -270,10 +270,10 @@
         "Change": "-0.1500",
         "Change %": "-6.47%",
         "Volume": "36.541M",
-        "Avg Vol (3M)": "20.084M",
-        "Market Cap": "2.226B",
-        "P/E Ratio (TTM)": "9.43",
-        "52 Wk Change %": "-26.81%"
+        "Avg Vol (3M)": "20.418M",
+        "Market Cap": "2.082B",
+        "P/E Ratio (TTM)": "9.04",
+        "52 Wk Change %": "-31.55%"
     },
     {
         "Symbol": "BABA",
@@ -282,10 +282,10 @@
         "Change": "-3.90",
         "Change %": "-3.80%",
         "Volume": "36.307M",
-        "Avg Vol (3M)": "16.255M",
+        "Avg Vol (3M)": "16.591M",
         "Market Cap": "234.839B",
-        "P/E Ratio (TTM)": "20.38",
-        "52 Wk Change %": "37.67%"
+        "P/E Ratio (TTM)": "20.13",
+        "52 Wk Change %": "32.44%"
     },
     {
         "Symbol": "CMCSA",
@@ -294,10 +294,10 @@
         "Change": "+0.41",
         "Change %": "+1.23%",
         "Volume": "38.255M",
-        "Avg Vol (3M)": "21.609M",
+        "Avg Vol (3M)": "21.901M",
         "Market Cap": "128.484B",
-        "P/E Ratio (TTM)": "8.03",
-        "52 Wk Change %": "-25.90%"
+        "P/E Ratio (TTM)": "8.13",
+        "52 Wk Change %": "-24.98%"
     },
     {
         "Symbol": "MARA",
@@ -306,10 +306,10 @@
         "Change": "-0.84",
         "Change %": "-4.38%",
         "Volume": "32.907M",
-        "Avg Vol (3M)": "59.956M",
+        "Avg Vol (3M)": "59.515M",
         "Market Cap": "6.224B",
         "P/E Ratio (TTM)": "22.10",
-        "52 Wk Change %": "15.26%"
+        "52 Wk Change %": "10.22%"
     },
     {
         "Symbol": "RIG",
@@ -318,10 +318,10 @@
         "Change": "+0.0100",
         "Change %": "+0.26%",
         "Volume": "31.441M",
-        "Avg Vol (3M)": "22.08M",
+        "Avg Vol (3M)": "22.236M",
         "Market Cap": "3.433B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-21.49%"
+        "52 Wk Change %": "-21.29%"
     },
     {
         "Symbol": "T",
@@ -330,10 +330,10 @@
         "Change": "-0.29",
         "Change %": "-1.21%",
         "Volume": "30.438M",
-        "Avg Vol (3M)": "35.66M",
-        "Market Cap": "172.368B",
-        "P/E Ratio (TTM)": "16.14",
-        "52 Wk Change %": "35.48%"
+        "Avg Vol (3M)": "35.738M",
+        "Market Cap": "170.286B",
+        "P/E Ratio (TTM)": "15.93",
+        "52 Wk Change %": "33.84%"
     },
     {
         "Symbol": "ACHR",
@@ -342,10 +342,10 @@
         "Change": "+0.18",
         "Change %": "+1.94%",
         "Volume": "30.722M",
-        "Avg Vol (3M)": "39.596M",
+        "Avg Vol (3M)": "39.45M",
         "Market Cap": "4.741B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "98.50%"
+        "52 Wk Change %": "102.36%"
     },
     {
         "Symbol": "AVGO",
@@ -354,10 +354,10 @@
         "Change": "+5.61",
         "Change %": "+2.60%",
         "Volume": "41.058M",
-        "Avg Vol (3M)": "32.079M",
+        "Avg Vol (3M)": "32.229M",
         "Market Cap": "1.037T",
-        "P/E Ratio (TTM)": "171.53",
-        "52 Wk Change %": "73.49%"
+        "P/E Ratio (TTM)": "172.87",
+        "52 Wk Change %": "78.00%"
     },
     {
         "Symbol": "AGNC",
@@ -366,10 +366,10 @@
         "Change": "+0.01",
         "Change %": "+0.10%",
         "Volume": "29.436M",
-        "Avg Vol (3M)": "17.823M",
+        "Avg Vol (3M)": "18.02M",
         "Market Cap": "8.947B",
         "P/E Ratio (TTM)": "10.72",
-        "52 Wk Change %": "7.35%"
+        "52 Wk Change %": "6.18%"
     },
     {
         "Symbol": "AAL",
@@ -378,10 +378,10 @@
         "Change": "+0.02",
         "Change %": "+0.12%",
         "Volume": "29.893M",
-        "Avg Vol (3M)": "27.574M",
+        "Avg Vol (3M)": "27.615M",
         "Market Cap": "11.126B",
         "P/E Ratio (TTM)": "13.65",
-        "52 Wk Change %": "18.51%"
+        "52 Wk Change %": "18.65%"
     },
     {
         "Symbol": "AMZN",
@@ -390,10 +390,10 @@
         "Change": "+3.04",
         "Change %": "+1.30%",
         "Volume": "36.067M",
-        "Avg Vol (3M)": "37.01M",
+        "Avg Vol (3M)": "36.995M",
         "Market Cap": "2.499T",
-        "P/E Ratio (TTM)": "50.25",
-        "52 Wk Change %": "37.77%"
+        "P/E Ratio (TTM)": "50.79",
+        "52 Wk Change %": "39.56%"
     },
     {
         "Symbol": "WBD",
@@ -402,10 +402,10 @@
         "Change": "-0.18",
         "Change %": "-1.69%",
         "Volume": "27.902M",
-        "Avg Vol (3M)": "30.678M",
-        "Market Cap": "26.053B",
+        "Avg Vol (3M)": "30.722M",
+        "Market Cap": "25.611B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "5.46%"
+        "52 Wk Change %": "3.67%"
     },
     {
         "Symbol": "PCG",
@@ -414,10 +414,10 @@
         "Change": "-0.04",
         "Change %": "-0.25%",
         "Volume": "27.013M",
-        "Avg Vol (3M)": "21.255M",
+        "Avg Vol (3M)": "21.427M",
         "Market Cap": "34.328B",
         "P/E Ratio (TTM)": "12.23",
-        "52 Wk Change %": "-4.15%"
+        "52 Wk Change %": "-4.40%"
     },
     {
         "Symbol": "ASTS",
@@ -426,10 +426,10 @@
         "Change": "+2.03",
         "Change %": "+11.15%",
         "Volume": "26.265M",
-        "Avg Vol (3M)": "8.962M",
-        "Market Cap": "5.276B",
+        "Avg Vol (3M)": "9.255M",
+        "Market Cap": "5.864B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "557.40%"
+        "52 Wk Change %": "630.69%"
     },
     {
         "Symbol": "OKLO",
@@ -438,10 +438,10 @@
         "Change": "-0.30",
         "Change %": "-0.72%",
         "Volume": "26.238M",
-        "Avg Vol (3M)": "17.619M",
+        "Avg Vol (3M)": "17.773M",
         "Market Cap": "5.692B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "293.89%"
+        "52 Wk Change %": "291.07%"
     },
     {
         "Symbol": "BB",
@@ -450,10 +450,10 @@
         "Change": "+0.0300",
         "Change %": "+0.68%",
         "Volume": "26.029M",
-        "Avg Vol (3M)": "15.801M",
+        "Avg Vol (3M)": "15.995M",
         "Market Cap": "2.627B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "65.79%"
+        "52 Wk Change %": "66.92%"
     },
     {
         "Symbol": "VTRS",
@@ -462,10 +462,10 @@
         "Change": "-0.14",
         "Change %": "-1.23%",
         "Volume": "25.782M",
-        "Avg Vol (3M)": "9.107M",
+        "Avg Vol (3M)": "9.385M",
         "Market Cap": "13.464B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-1.38%"
+        "52 Wk Change %": "-2.59%"
     },
     {
         "Symbol": "BTG",
@@ -474,10 +474,10 @@
         "Change": "-0.0200",
         "Change %": "-0.82%",
         "Volume": "26.441M",
-        "Avg Vol (3M)": "17.593M",
-        "Market Cap": "3.231B",
+        "Avg Vol (3M)": "17.744M",
+        "Market Cap": "3.192B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-10.29%"
+        "52 Wk Change %": "-11.03%"
     },
     {
         "Symbol": "MSFT",
@@ -486,10 +486,10 @@
         "Change": "+0.07",
         "Change %": "+0.02%",
         "Volume": "33.326M",
-        "Avg Vol (3M)": "21.802M",
+        "Avg Vol (3M)": "22.008M",
         "Market Cap": "3.086T",
         "P/E Ratio (TTM)": "33.45",
-        "52 Wk Change %": "2.30%"
+        "52 Wk Change %": "2.32%"
     },
     {
         "Symbol": "ERIC",
@@ -498,10 +498,10 @@
         "Change": "-0.23",
         "Change %": "-2.98%",
         "Volume": "26.154M",
-        "Avg Vol (3M)": "17.166M",
-        "Market Cap": "24.829B",
+        "Avg Vol (3M)": "17.316M",
+        "Market Cap": "25.847B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "45.39%"
+        "52 Wk Change %": "41.05%"
     },
     {
         "Symbol": "GOLD",
@@ -510,10 +510,10 @@
         "Change": "-0.20",
         "Change %": "-1.21%",
         "Volume": "24.964M",
-        "Avg Vol (3M)": "20.731M",
-        "Market Cap": "29.12B",
-        "P/E Ratio (TTM)": "17.99",
-        "52 Wk Change %": "9.23%"
+        "Avg Vol (3M)": "20.817M",
+        "Market Cap": "28.654B",
+        "P/E Ratio (TTM)": "17.79",
+        "52 Wk Change %": "7.91%"
     },
     {
         "Symbol": "GOOGL",
@@ -522,10 +522,10 @@
         "Change": "+3.15",
         "Change %": "+1.57%",
         "Volume": "31.988M",
-        "Avg Vol (3M)": "27.324M",
-        "Market Cap": "2.507T",
-        "P/E Ratio (TTM)": "27.09",
-        "52 Wk Change %": "39.80%"
+        "Avg Vol (3M)": "27.402M",
+        "Market Cap": "2.506T",
+        "P/E Ratio (TTM)": "27.02",
+        "52 Wk Change %": "42.00%"
     },
     {
         "Symbol": "AES",
@@ -534,10 +534,10 @@
         "Change": "-0.09",
         "Change %": "-0.85%",
         "Volume": "21.783M",
-        "Avg Vol (3M)": "14.569M",
+        "Avg Vol (3M)": "14.689M",
         "Market Cap": "7.821B",
         "P/E Ratio (TTM)": "7.64",
-        "52 Wk Change %": "-31.74%"
+        "52 Wk Change %": "-33.37%"
     },
     {
         "Symbol": "NOK",
@@ -546,10 +546,10 @@
         "Change": "-0.1000",
         "Change %": "-2.13%",
         "Volume": "22.018M",
-        "Avg Vol (3M)": "16.426M",
-        "Market Cap": "25.174B",
+        "Avg Vol (3M)": "16.629M",
+        "Market Cap": "25.352B",
         "P/E Ratio (TTM)": "14.38",
-        "52 Wk Change %": "32.02%"
+        "52 Wk Change %": "29.21%"
     },
     {
         "Symbol": "KMI",
@@ -558,10 +558,10 @@
         "Change": "-0.62",
         "Change %": "-2.21%",
         "Volume": "21.412M",
-        "Avg Vol (3M)": "14.378M",
+        "Avg Vol (3M)": "14.495M",
         "Market Cap": "61.051B",
         "P/E Ratio (TTM)": "23.49",
-        "52 Wk Change %": "68.57%"
+        "52 Wk Change %": "64.85%"
     },
     {
         "Symbol": "CSX",
@@ -570,10 +570,10 @@
         "Change": "+0.01",
         "Change %": "+0.03%",
         "Volume": "21.262M",
-        "Avg Vol (3M)": "12.803M",
+        "Avg Vol (3M)": "12.95M",
         "Market Cap": "63.387B",
         "P/E Ratio (TTM)": "18.36",
-        "52 Wk Change %": "-10.54%"
+        "52 Wk Change %": "-10.51%"
     },
     {
         "Symbol": "RXRX",
@@ -582,10 +582,10 @@
         "Change": "-0.45",
         "Change %": "-5.85%",
         "Volume": "21.236M",
-        "Avg Vol (3M)": "14.681M",
+        "Avg Vol (3M)": "14.791M",
         "Market Cap": "2.829B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-15.77%"
+        "52 Wk Change %": "-20.70%"
     },
     {
         "Symbol": "BAC",
@@ -594,10 +594,10 @@
         "Change": "-0.42",
         "Change %": "-0.90%",
         "Volume": "30.381M",
-        "Avg Vol (3M)": "35.701M",
+        "Avg Vol (3M)": "35.612M",
         "Market Cap": "352.383B",
         "P/E Ratio (TTM)": "14.42",
-        "52 Wk Change %": "41.62%"
+        "52 Wk Change %": "40.35%"
     },
     {
         "Symbol": "GM",
@@ -606,10 +606,10 @@
         "Change": "-0.04",
         "Change %": "-0.08%",
         "Volume": "20.546M",
-        "Avg Vol (3M)": "11.423M",
-        "Market Cap": "49.253B",
+        "Avg Vol (3M)": "11.576M",
+        "Market Cap": "49.213B",
         "P/E Ratio (TTM)": "7.76",
-        "52 Wk Change %": "30.99%"
+        "52 Wk Change %": "30.88%"
     },
     {
         "Symbol": "SNAP",
@@ -618,10 +618,10 @@
         "Change": "-0.06",
         "Change %": "-0.53%",
         "Volume": "20.648M",
-        "Avg Vol (3M)": "28.155M",
-        "Market Cap": "19.036B",
+        "Avg Vol (3M)": "28.071M",
+        "Market Cap": "18.936B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-32.24%"
+        "52 Wk Change %": "-32.60%"
     },
     {
         "Symbol": "XOM",
@@ -630,10 +630,10 @@
         "Change": "-2.74",
         "Change %": "-2.50%",
         "Volume": "20.37M",
-        "Avg Vol (3M)": "15.457M",
-        "Market Cap": "481.57B",
-        "P/E Ratio (TTM)": "13.64",
-        "52 Wk Change %": "7.90%"
+        "Avg Vol (3M)": "15.539M",
+        "Market Cap": "465.031B",
+        "P/E Ratio (TTM)": "13.63",
+        "52 Wk Change %": "5.20%"
     },
     {
         "Symbol": "VZ",
@@ -642,10 +642,10 @@
         "Change": "-0.08",
         "Change %": "-0.20%",
         "Volume": "20.422M",
-        "Avg Vol (3M)": "20.039M",
+        "Avg Vol (3M)": "20.458M",
         "Market Cap": "165.817B",
         "P/E Ratio (TTM)": "9.51",
-        "52 Wk Change %": "-4.62%"
+        "52 Wk Change %": "-4.81%"
     },
     {
         "Symbol": "RKLB",
@@ -654,10 +654,10 @@
         "Change": "+0.52",
         "Change %": "+1.82%",
         "Volume": "20.545M",
-        "Avg Vol (3M)": "23.408M",
+        "Avg Vol (3M)": "23.361M",
         "Market Cap": "13.042B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "600.98%"
+        "52 Wk Change %": "613.76%"
     },
     {
         "Symbol": "KGC",
@@ -666,10 +666,10 @@
         "Change": "-0.21",
         "Change %": "-1.83%",
         "Volume": "19.815M",
-        "Avg Vol (3M)": "18.354M",
-        "Market Cap": "14.176B",
-        "P/E Ratio (TTM)": "19.12",
-        "52 Wk Change %": "112.78%"
+        "Avg Vol (3M)": "18.388M",
+        "Market Cap": "13.88B",
+        "P/E Ratio (TTM)": "18.80",
+        "52 Wk Change %": "108.89%"
     },
     {
         "Symbol": "VRN",
@@ -678,10 +678,10 @@
         "Change": "-0.22",
         "Change %": "-4.19%",
         "Volume": "19.625M",
-        "Avg Vol (3M)": "10.857M",
-        "Market Cap": "3.108B",
+        "Avg Vol (3M)": "11.018M",
+        "Market Cap": "3.109B",
         "P/E Ratio (TTM)": "9.49",
-        "52 Wk Change %": "-14.36%"
+        "52 Wk Change %": "-17.94%"
     },
     {
         "Symbol": "ITUB",
@@ -690,9 +690,9 @@
         "Change": "0.00",
         "Change %": "0.00%",
         "Volume": "19.249M",
-        "Avg Vol (3M)": "27.209M",
-        "Market Cap": "52.069B",
-        "P/E Ratio (TTM)": "8.53",
+        "Avg Vol (3M)": "27.152M",
+        "Market Cap": "53.187B",
+        "P/E Ratio (TTM)": "8.66",
         "52 Wk Change %": "-12.39%"
     },
     {
@@ -702,10 +702,10 @@
         "Change": "+0.68",
         "Change %": "+1.75%",
         "Volume": "19.303M",
-        "Avg Vol (3M)": "32.428M",
+        "Avg Vol (3M)": "32.222M",
         "Market Cap": "8.545B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "293.21%"
+        "52 Wk Change %": "300.10%"
     },
     {
         "Symbol": "BKR",
@@ -714,10 +714,10 @@
         "Change": "+1.58",
         "Change %": "+3.54%",
         "Volume": "19.095M",
-        "Avg Vol (3M)": "6.538M",
+        "Avg Vol (3M)": "6.782M",
         "Market Cap": "45.696B",
         "P/E Ratio (TTM)": "15.50",
-        "52 Wk Change %": "54.86%"
+        "52 Wk Change %": "60.35%"
     },
     {
         "Symbol": "HIMS",
@@ -726,10 +726,10 @@
         "Change": "+3.32",
         "Change %": "+9.78%",
         "Volume": "19.054M",
-        "Avg Vol (3M)": "16.357M",
+        "Avg Vol (3M)": "16.412M",
         "Market Cap": "8.145B",
         "P/E Ratio (TTM)": "84.73",
-        "52 Wk Change %": "296.73%"
+        "52 Wk Change %": "335.51%"
     },
     {
         "Symbol": "HL",
@@ -738,10 +738,10 @@
         "Change": "-0.10",
         "Change %": "-1.73%",
         "Volume": "19.008M",
-        "Avg Vol (3M)": "12.851M",
+        "Avg Vol (3M)": "12.965M",
         "Market Cap": "3.618B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "61.45%"
+        "52 Wk Change %": "58.66%"
     },
     {
         "Symbol": "PBR",
@@ -750,10 +750,10 @@
         "Change": "+0.08",
         "Change %": "+0.57%",
         "Volume": "19.192M",
-        "Avg Vol (3M)": "14.268M",
-        "Market Cap": "86.319B",
+        "Avg Vol (3M)": "14.365M",
+        "Market Cap": "87.296B",
         "P/E Ratio (TTM)": "5.55",
-        "52 Wk Change %": "-16.49%"
+        "52 Wk Change %": "-16.02%"
     },
     {
         "Symbol": "RIVN",
@@ -762,10 +762,10 @@
         "Change": "+0.05",
         "Change %": "+0.40%",
         "Volume": "20.128M",
-        "Avg Vol (3M)": "42.488M",
+        "Avg Vol (3M)": "42.119M",
         "Market Cap": "12.82B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-16.27%"
+        "52 Wk Change %": "-15.93%"
     },
     {
         "Symbol": "CNH",
@@ -774,10 +774,10 @@
         "Change": "-0.35",
         "Change %": "-2.65%",
         "Volume": "18.101M",
-        "Avg Vol (3M)": "12.186M",
+        "Avg Vol (3M)": "12.284M",
         "Market Cap": "16.087B",
         "P/E Ratio (TTM)": "9.47",
-        "52 Wk Change %": "8.89%"
+        "52 Wk Change %": "6.01%"
     },
     {
         "Symbol": "GGB",
@@ -786,10 +786,10 @@
         "Change": "-0.0800",
         "Change %": "-2.68%",
         "Volume": "18.111M",
-        "Avg Vol (3M)": "10.598M",
-        "Market Cap": "5.762B",
+        "Avg Vol (3M)": "10.742M",
+        "Market Cap": "6.033B",
         "P/E Ratio (TTM)": "7.46",
-        "52 Wk Change %": "-16.17%"
+        "52 Wk Change %": "-18.41%"
     },
     {
         "Symbol": "BEN",
@@ -798,10 +798,10 @@
         "Change": "+2.09",
         "Change %": "+10.37%",
         "Volume": "22.38M",
-        "Avg Vol (3M)": "3.921M",
-        "Market Cap": "11.653B",
-        "P/E Ratio (TTM)": "26.16",
-        "52 Wk Change %": "-23.47%"
+        "Avg Vol (3M)": "4.229M",
+        "Market Cap": "11.685B",
+        "P/E Ratio (TTM)": "34.75",
+        "52 Wk Change %": "-15.53%"
     },
     {
         "Symbol": "VIAV",
@@ -810,10 +810,10 @@
         "Change": "+2.05",
         "Change %": "+20.52%",
         "Volume": "17.596M",
-        "Avg Vol (3M)": "1.605M",
-        "Market Cap": "2.671B",
+        "Avg Vol (3M)": "1.872M",
+        "Market Cap": "2.675B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "11.00%"
+        "52 Wk Change %": "33.78%"
     },
     {
         "Symbol": "CLSK",
@@ -822,10 +822,10 @@
         "Change": "-0.53",
         "Change %": "-4.83%",
         "Volume": "18.448M",
-        "Avg Vol (3M)": "33.512M",
-        "Market Cap": "3.08B",
+        "Avg Vol (3M)": "33.265M",
+        "Market Cap": "2.932B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "41.37%"
+        "52 Wk Change %": "34.54%"
     },
     {
         "Symbol": "TEM",
@@ -834,10 +834,10 @@
         "Change": "+0.20",
         "Change %": "+0.35%",
         "Volume": "17.723M",
-        "Avg Vol (3M)": "5.18M",
+        "Avg Vol (3M)": "5.391M",
         "Market Cap": "9.036B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "42.09%"
+        "52 Wk Change %": "42.58%"
     },
     {
         "Symbol": "HBAN",
@@ -846,10 +846,10 @@
         "Change": "-0.19",
         "Change %": "-1.09%",
         "Volume": "17.459M",
-        "Avg Vol (3M)": "16.23M",
+        "Avg Vol (3M)": "16.25M",
         "Market Cap": "25.003B",
         "P/E Ratio (TTM)": "14.10",
-        "52 Wk Change %": "40.24%"
+        "52 Wk Change %": "38.71%"
     },
     {
         "Symbol": "META",
@@ -858,10 +858,10 @@
         "Change": "+2.18",
         "Change %": "+0.32%",
         "Volume": "19.268M",
-        "Avg Vol (3M)": "13.294M",
-        "Market Cap": "1.741T",
-        "P/E Ratio (TTM)": "28.82",
-        "52 Wk Change %": "49.54%"
+        "Avg Vol (3M)": "13.394M",
+        "Market Cap": "1.746T",
+        "P/E Ratio (TTM)": "28.90",
+        "52 Wk Change %": "50.01%"
     },
     {
         "Symbol": "SMR",
@@ -870,10 +870,10 @@
         "Change": "+0.26",
         "Change %": "+1.10%",
         "Volume": "19.597M",
-        "Avg Vol (3M)": "10.92M",
+        "Avg Vol (3M)": "11.066M",
         "Market Cap": "2.882B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "699.32%"
+        "52 Wk Change %": "708.14%"
     },
     {
         "Symbol": "ALTM",
@@ -882,7 +882,7 @@
         "Change": "0.00",
         "Change %": "0.00%",
         "Volume": "16.838M",
-        "Avg Vol (3M)": "13.903M",
+        "Avg Vol (3M)": "13.96M",
         "Market Cap": "6.173B",
         "P/E Ratio (TTM)": "31.89",
         "52 Wk Change %": "33.49%"
@@ -894,10 +894,10 @@
         "Change": "-0.60",
         "Change %": "-2.85%",
         "Volume": "17.375M",
-        "Avg Vol (3M)": "17.473M",
+        "Avg Vol (3M)": "17.472M",
         "Market Cap": "70.122B",
         "P/E Ratio (TTM)": "15.06",
-        "52 Wk Change %": "47.31%"
+        "52 Wk Change %": "43.12%"
     },
     {
         "Symbol": "CSCO",
@@ -906,10 +906,10 @@
         "Change": "+0.13",
         "Change %": "+0.21%",
         "Volume": "16.553M",
-        "Avg Vol (3M)": "19.777M",
+        "Avg Vol (3M)": "19.723M",
         "Market Cap": "241.355B",
         "P/E Ratio (TTM)": "26.01",
-        "52 Wk Change %": "22.14%"
+        "52 Wk Change %": "22.40%"
     },
     {
         "Symbol": "KVUE",
@@ -918,10 +918,10 @@
         "Change": "-0.43",
         "Change %": "-1.98%",
         "Volume": "16.425M",
-        "Avg Vol (3M)": "12.747M",
+        "Avg Vol (3M)": "12.808M",
         "Market Cap": "40.818B",
         "P/E Ratio (TTM)": "38.71",
-        "52 Wk Change %": "6.05%"
+        "52 Wk Change %": "3.96%"
     },
     {
         "Symbol": "AQN",
@@ -930,10 +930,10 @@
         "Change": "+0.1000",
         "Change %": "+2.30%",
         "Volume": "16.798M",
-        "Avg Vol (3M)": "6.123M",
-        "Market Cap": "3.407B",
+        "Avg Vol (3M)": "6.301M",
+        "Market Cap": "3.425B",
         "P/E Ratio (TTM)": "8.22",
-        "52 Wk Change %": "-24.65%"
+        "52 Wk Change %": "-22.92%"
     },
     {
         "Symbol": "GRAB",
@@ -942,10 +942,10 @@
         "Change": "-0.0600",
         "Change %": "-1.29%",
         "Volume": "18.563M",
-        "Avg Vol (3M)": "34.516M",
-        "Market Cap": "18.685B",
+        "Avg Vol (3M)": "34.374M",
+        "Market Cap": "18.444B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "44.55%"
+        "52 Wk Change %": "42.68%"
     },
     {
         "Symbol": "DOC",
@@ -954,10 +954,10 @@
         "Change": "+0.15",
         "Change %": "+0.73%",
         "Volume": "16.229M",
-        "Avg Vol (3M)": "4.481M",
+        "Avg Vol (3M)": "4.677M",
         "Market Cap": "14.45B",
         "P/E Ratio (TTM)": "42.16",
-        "52 Wk Change %": "15.16%"
+        "52 Wk Change %": "16.00%"
     },
     {
         "Symbol": "TEVA",
@@ -966,10 +966,10 @@
         "Change": "-0.11",
         "Change %": "-0.62%",
         "Volume": "16.157M",
-        "Avg Vol (3M)": "10.928M",
-        "Market Cap": "20.089B",
+        "Avg Vol (3M)": "11.047M",
+        "Market Cap": "20.158B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "44.10%"
+        "52 Wk Change %": "43.21%"
     },
     {
         "Symbol": "QS",
@@ -978,10 +978,10 @@
         "Change": "-0.03",
         "Change %": "-0.58%",
         "Volume": "16.013M",
-        "Avg Vol (3M)": "15.325M",
-        "Market Cap": "2.665B",
+        "Avg Vol (3M)": "15.353M",
+        "Market Cap": "2.649B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-23.08%"
+        "52 Wk Change %": "-23.52%"
     },
     {
         "Symbol": "AMCR",
@@ -990,10 +990,10 @@
         "Change": "-0.03",
         "Change %": "-0.31%",
         "Volume": "15.913M",
-        "Avg Vol (3M)": "15.653M",
-        "Market Cap": "14.092B",
+        "Avg Vol (3M)": "15.862M",
+        "Market Cap": "14.049B",
         "P/E Ratio (TTM)": "18.34",
-        "52 Wk Change %": "5.75%"
+        "52 Wk Change %": "5.42%"
     },
     {
         "Symbol": "CVE",
@@ -1002,10 +1002,10 @@
         "Change": "-0.43",
         "Change %": "-2.89%",
         "Volume": "16.436M",
-        "Avg Vol (3M)": "8.646M",
-        "Market Cap": "26.582B",
+        "Avg Vol (3M)": "8.776M",
+        "Market Cap": "26.489B",
         "P/E Ratio (TTM)": "10.49",
-        "52 Wk Change %": "-5.34%"
+        "52 Wk Change %": "-8.07%"
     },
     {
         "Symbol": "OXY",
@@ -1014,10 +1014,10 @@
         "Change": "-2.27",
         "Change %": "-4.64%",
         "Volume": "15.736M",
-        "Avg Vol (3M)": "11.285M",
+        "Avg Vol (3M)": "11.399M",
         "Market Cap": "43.774B",
         "P/E Ratio (TTM)": "12.78",
-        "52 Wk Change %": "-14.15%"
+        "52 Wk Change %": "-18.13%"
     },
     {
         "Symbol": "ABEV",
@@ -1026,10 +1026,10 @@
         "Change": "-0.0100",
         "Change %": "-0.54%",
         "Volume": "15.387M",
-        "Avg Vol (3M)": "36.988M",
-        "Market Cap": "29.289B",
+        "Avg Vol (3M)": "36.628M",
+        "Market Cap": "29.82B",
         "P/E Ratio (TTM)": "12.33",
-        "52 Wk Change %": "-28.46%"
+        "52 Wk Change %": "-28.85%"
     },
     {
         "Symbol": "STLA",
@@ -1038,10 +1038,10 @@
         "Change": "-0.39",
         "Change %": "-2.88%",
         "Volume": "15.531M",
-        "Avg Vol (3M)": "8.924M",
-        "Market Cap": "38.517B",
-        "P/E Ratio (TTM)": "2.98",
-        "52 Wk Change %": "-40.10%"
+        "Avg Vol (3M)": "9.043M",
+        "Market Cap": "38.977B",
+        "P/E Ratio (TTM)": "2.89",
+        "52 Wk Change %": "-41.83%"
     },
     {
         "Symbol": "HLN",
@@ -1050,10 +1050,10 @@
         "Change": "-0.10",
         "Change %": "-1.04%",
         "Volume": "15.366M",
-        "Avg Vol (3M)": "8.336M",
+        "Avg Vol (3M)": "8.453M",
         "Market Cap": "42.818B",
         "P/E Ratio (TTM)": "28.70",
-        "52 Wk Change %": "14.61%"
+        "52 Wk Change %": "13.41%"
     },
     {
         "Symbol": "MU",
@@ -1062,10 +1062,10 @@
         "Change": "-1.26",
         "Change %": "-1.36%",
         "Volume": "19.097M",
-        "Avg Vol (3M)": "23.627M",
-        "Market Cap": "103.061B",
-        "P/E Ratio (TTM)": "26.52",
-        "52 Wk Change %": "6.35%"
+        "Avg Vol (3M)": "23.575M",
+        "Market Cap": "101.657B",
+        "P/E Ratio (TTM)": "26.14",
+        "52 Wk Change %": "4.90%"
     },
     {
         "Symbol": "MPW",
@@ -1074,10 +1074,10 @@
         "Change": "-0.0100",
         "Change %": "-0.21%",
         "Volume": "15.382M",
-        "Avg Vol (3M)": "13.455M",
+        "Avg Vol (3M)": "13.508M",
         "Market Cap": "2.816B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "48.26%"
+        "52 Wk Change %": "47.95%"
     },
     {
         "Symbol": "GSAT",
@@ -1086,10 +1086,10 @@
         "Change": "+0.0500",
         "Change %": "+3.38%",
         "Volume": "14.865M",
-        "Avg Vol (3M)": "21.798M",
+        "Avg Vol (3M)": "21.683M",
         "Market Cap": "2.898B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-6.33%"
+        "52 Wk Change %": "-3.16%"
     },
     {
         "Symbol": "BCS",
@@ -1098,10 +1098,10 @@
         "Change": "-0.12",
         "Change %": "-0.81%",
         "Volume": "14.813M",
-        "Avg Vol (3M)": "13.076M",
-        "Market Cap": "52.85B",
+        "Avg Vol (3M)": "13.113M",
+        "Market Cap": "53.051B",
         "P/E Ratio (TTM)": "10.56",
-        "52 Wk Change %": "99.46%"
+        "52 Wk Change %": "97.84%"
     },
     {
         "Symbol": "FLG",
@@ -1110,10 +1110,10 @@
         "Change": "+0.77",
         "Change %": "+6.96%",
         "Volume": "14.704M",
-        "Avg Vol (3M)": "6.144M",
+        "Avg Vol (3M)": "6.287M",
         "Market Cap": "4.909B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-31.73%"
+        "52 Wk Change %": "-26.98%"
     },
     {
         "Symbol": "CCL",
@@ -1122,10 +1122,10 @@
         "Change": "-0.82",
         "Change %": "-2.88%",
         "Volume": "14.684M",
-        "Avg Vol (3M)": "21.039M",
+        "Avg Vol (3M)": "20.989M",
         "Market Cap": "37.407B",
         "P/E Ratio (TTM)": "19.22",
-        "52 Wk Change %": "79.97%"
+        "52 Wk Change %": "74.79%"
     },
     {
         "Symbol": "UPS",
@@ -1134,10 +1134,10 @@
         "Change": "-0.67",
         "Change %": "-0.58%",
         "Volume": "14.564M",
-        "Avg Vol (3M)": "4.908M",
+        "Avg Vol (3M)": "5.09M",
         "Market Cap": "97.48B",
-        "P/E Ratio (TTM)": "16.95",
-        "52 Wk Change %": "-17.39%"
+        "P/E Ratio (TTM)": "16.92",
+        "52 Wk Change %": "-17.87%"
     },
     {
         "Symbol": "ASX",
@@ -1146,10 +1146,10 @@
         "Change": "+0.07",
         "Change %": "+0.69%",
         "Volume": "14.478M",
-        "Avg Vol (3M)": "8.269M",
-        "Market Cap": "23.384B",
+        "Avg Vol (3M)": "8.372M",
+        "Market Cap": "23.326B",
         "P/E Ratio (TTM)": "20.30",
-        "52 Wk Change %": "10.77%"
+        "52 Wk Change %": "11.54%"
     },
     {
         "Symbol": "UBER",
@@ -1158,10 +1158,10 @@
         "Change": "+0.26",
         "Change %": "+0.39%",
         "Volume": "14.39M",
-        "Avg Vol (3M)": "25.168M",
+        "Avg Vol (3M)": "25.078M",
         "Market Cap": "140.767B",
         "P/E Ratio (TTM)": "32.93",
-        "52 Wk Change %": "-3.48%"
+        "52 Wk Change %": "-3.10%"
     },
     {
         "Symbol": "VNOM",
@@ -1170,10 +1170,10 @@
         "Change": "+0.66",
         "Change %": "+1.43%",
         "Volume": "14.361M",
-        "Avg Vol (3M)": "861,749",
+        "Avg Vol (3M)": "1.088M",
         "Market Cap": "8.836B",
         "P/E Ratio (TTM)": "20.04",
-        "52 Wk Change %": "48.40%"
+        "52 Wk Change %": "50.51%"
     },
     {
         "Symbol": "DECK",
@@ -1182,10 +1182,10 @@
         "Change": "-45.75",
         "Change %": "-20.51%",
         "Volume": "14.416M",
-        "Avg Vol (3M)": "1.75M",
-        "Market Cap": "33.895B",
-        "P/E Ratio (TTM)": "36.20",
-        "52 Wk Change %": "57.23%"
+        "Avg Vol (3M)": "1.971M",
+        "Market Cap": "26.945B",
+        "P/E Ratio (TTM)": "28.84",
+        "52 Wk Change %": "24.99%"
     },
     {
         "Symbol": "NGD",
@@ -1194,10 +1194,10 @@
         "Change": "-0.0200",
         "Change %": "-0.66%",
         "Volume": "14.024M",
-        "Avg Vol (3M)": "8.964M",
-        "Market Cap": "2.411B",
+        "Avg Vol (3M)": "9.049M",
+        "Market Cap": "2.395B",
         "P/E Ratio (TTM)": "151.00",
-        "52 Wk Change %": "139.37%"
+        "52 Wk Change %": "137.80%"
     },
     {
         "Symbol": "TSM",
@@ -1206,10 +1206,10 @@
         "Change": "+1.17",
         "Change %": "+0.56%",
         "Volume": "13.91M",
-        "Avg Vol (3M)": "14.859M",
+        "Avg Vol (3M)": "14.874M",
         "Market Cap": "1.086T",
-        "P/E Ratio (TTM)": "30.47",
-        "52 Wk Change %": "75.23%"
+        "P/E Ratio (TTM)": "30.38",
+        "52 Wk Change %": "76.21%"
     },
     {
         "Symbol": "WFC",
@@ -1218,10 +1218,10 @@
         "Change": "-0.02",
         "Change %": "-0.03%",
         "Volume": "13.665M",
-        "Avg Vol (3M)": "16.582M",
-        "Market Cap": "259.235B",
+        "Avg Vol (3M)": "16.555M",
+        "Market Cap": "259.168B",
         "P/E Ratio (TTM)": "14.67",
-        "52 Wk Change %": "61.85%"
+        "52 Wk Change %": "61.81%"
     },
     {
         "Symbol": "RF",
@@ -1230,10 +1230,10 @@
         "Change": "-0.13",
         "Change %": "-0.52%",
         "Volume": "13.614M",
-        "Avg Vol (3M)": "8.101M",
+        "Avg Vol (3M)": "8.193M",
         "Market Cap": "22.394B",
         "P/E Ratio (TTM)": "12.77",
-        "52 Wk Change %": "37.92%"
+        "52 Wk Change %": "37.19%"
     },
     {
         "Symbol": "FCX",
@@ -1242,10 +1242,10 @@
         "Change": "-0.79",
         "Change %": "-2.16%",
         "Volume": "13.378M",
-        "Avg Vol (3M)": "12.444M",
-        "Market Cap": "52.649B",
-        "P/E Ratio (TTM)": "28.23",
-        "52 Wk Change %": "-5.27%"
+        "Avg Vol (3M)": "12.46M",
+        "Market Cap": "51.514B",
+        "P/E Ratio (TTM)": "27.58",
+        "52 Wk Change %": "-7.32%"
     },
     {
         "Symbol": "LYG",
@@ -1254,10 +1254,10 @@
         "Change": "-0.0400",
         "Change %": "-1.29%",
         "Volume": "13.32M",
-        "Avg Vol (3M)": "12.132M",
-        "Market Cap": "46.484B",
+        "Avg Vol (3M)": "12.152M",
+        "Market Cap": "47.015B",
         "P/E Ratio (TTM)": "8.97",
-        "52 Wk Change %": "48.56%"
+        "52 Wk Change %": "46.63%"
     },
     {
         "Symbol": "CVX",
@@ -1266,10 +1266,10 @@
         "Change": "-7.13",
         "Change %": "-4.56%",
         "Volume": "13.25M",
-        "Avg Vol (3M)": "8.225M",
-        "Market Cap": "278.706B",
-        "P/E Ratio (TTM)": "17.19",
-        "52 Wk Change %": "2.62%"
+        "Avg Vol (3M)": "8.367M",
+        "Market Cap": "261.828B",
+        "P/E Ratio (TTM)": "15.33",
+        "52 Wk Change %": "-2.06%"
     },
     {
         "Symbol": "HPE",
@@ -1278,7 +1278,7 @@
         "Change": "0.00",
         "Change %": "0.00%",
         "Volume": "17.005M",
-        "Avg Vol (3M)": "14.706M",
+        "Avg Vol (3M)": "14.745M",
         "Market Cap": "27.872B",
         "P/E Ratio (TTM)": "10.98",
         "52 Wk Change %": "38.68%"
@@ -1290,10 +1290,10 @@
         "Change": "-1.05",
         "Change %": "-1.98%",
         "Volume": "14.036M",
-        "Avg Vol (3M)": "23.621M",
+        "Avg Vol (3M)": "23.465M",
         "Market Cap": "45.923B",
         "P/E Ratio (TTM)": "89.57",
-        "52 Wk Change %": "401.89%"
+        "52 Wk Change %": "391.95%"
     },
     {
         "Symbol": "GOOG",
@@ -1302,10 +1302,10 @@
         "Change": "+2.97",
         "Change %": "+1.47%",
         "Volume": "17.048M",
-        "Avg Vol (3M)": "18.539M",
-        "Market Cap": "2.505T",
-        "P/E Ratio (TTM)": "27.27",
-        "52 Wk Change %": "39.81%"
+        "Avg Vol (3M)": "18.514M",
+        "Market Cap": "2.506T",
+        "P/E Ratio (TTM)": "27.23",
+        "52 Wk Change %": "41.86%"
     },
     {
         "Symbol": "SLB",
@@ -1314,10 +1314,10 @@
         "Change": "-0.74",
         "Change %": "-1.80%",
         "Volume": "13.099M",
-        "Avg Vol (3M)": "12.865M",
-        "Market Cap": "57.463B",
-        "P/E Ratio (TTM)": "13.21",
-        "52 Wk Change %": "-15.51%"
+        "Avg Vol (3M)": "12.869M",
+        "Market Cap": "56.426B",
+        "P/E Ratio (TTM)": "12.95",
+        "52 Wk Change %": "-17.03%"
     },
     {
         "Symbol": "IREN",
@@ -1326,10 +1326,10 @@
         "Change": "-0.08",
         "Change %": "-0.78%",
         "Volume": "13.061M",
-        "Avg Vol (3M)": "17.623M",
+        "Avg Vol (3M)": "17.547M",
         "Market Cap": "2.191B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "182.19%"
+        "52 Wk Change %": "180.00%"
     },
     {
         "Symbol": "LRCX",
@@ -1338,10 +1338,10 @@
         "Change": "+0.32",
         "Change %": "+0.40%",
         "Volume": "16.504M",
-        "Avg Vol (3M)": "11.71M",
+        "Avg Vol (3M)": "11.828M",
         "Market Cap": "104.146B",
         "P/E Ratio (TTM)": "24.64",
-        "52 Wk Change %": "-5.17%"
+        "52 Wk Change %": "-4.79%"
     },
     {
         "Symbol": "AUR",
@@ -1350,10 +1350,10 @@
         "Change": "-0.01",
         "Change %": "-0.15%",
         "Volume": "12.843M",
-        "Avg Vol (3M)": "13.568M",
-        "Market Cap": "11.702B",
+        "Avg Vol (3M)": "13.556M",
+        "Market Cap": "11.685B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "125.50%"
+        "52 Wk Change %": "125.17%"
     },
     {
         "Symbol": "ES",
@@ -1362,10 +1362,10 @@
         "Change": "+0.26",
         "Change %": "+0.45%",
         "Volume": "12.768M",
-        "Avg Vol (3M)": "2.307M",
+        "Avg Vol (3M)": "2.482M",
         "Market Cap": "21.134B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "6.95%"
+        "52 Wk Change %": "7.43%"
     },
     {
         "Symbol": "CORZ",
@@ -1374,10 +1374,10 @@
         "Change": "+0.01",
         "Change %": "+0.08%",
         "Volume": "13.232M",
-        "Avg Vol (3M)": "11.618M",
+        "Avg Vol (3M)": "11.647M",
         "Market Cap": "3.426B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "290.45%"
+        "52 Wk Change %": "290.76%"
     },
     {
         "Symbol": "MSTR",
@@ -1386,10 +1386,10 @@
         "Change": "-5.30",
         "Change %": "-1.56%",
         "Volume": "15.461M",
-        "Avg Vol (3M)": "27.677M",
+        "Avg Vol (3M)": "27.474M",
         "Market Cap": "84.484B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "593.21%"
+        "52 Wk Change %": "582.41%"
     },
     {
         "Symbol": "MRVL",
@@ -1398,10 +1398,10 @@
         "Change": "+2.53",
         "Change %": "+2.29%",
         "Volume": "15.192M",
-        "Avg Vol (3M)": "13.969M",
+        "Avg Vol (3M)": "13.99M",
         "Market Cap": "97.658B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "64.62%"
+        "52 Wk Change %": "68.40%"
     },
     {
         "Symbol": "SBUX",
@@ -1410,10 +1410,10 @@
         "Change": "-1.32",
         "Change %": "-1.21%",
         "Volume": "16.551M",
-        "Avg Vol (3M)": "8.66M",
-        "Market Cap": "123.817B",
-        "P/E Ratio (TTM)": "35.19",
-        "52 Wk Change %": "17.83%"
+        "Avg Vol (3M)": "8.834M",
+        "Market Cap": "122.317B",
+        "P/E Ratio (TTM)": "34.74",
+        "52 Wk Change %": "16.40%"
     },
     {
         "Symbol": "CDE",
@@ -1422,10 +1422,10 @@
         "Change": "-0.25",
         "Change %": "-3.65%",
         "Volume": "12.477M",
-        "Avg Vol (3M)": "10.125M",
+        "Avg Vol (3M)": "10.212M",
         "Market Cap": "2.635B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "157.52%"
+        "52 Wk Change %": "148.12%"
     },
     {
         "Symbol": "EIX",
@@ -1434,10 +1434,10 @@
         "Change": "-0.06",
         "Change %": "-0.11%",
         "Volume": "12.047M",
-        "Avg Vol (3M)": "3.789M",
+        "Avg Vol (3M)": "3.927M",
         "Market Cap": "20.906B",
         "P/E Ratio (TTM)": "15.79",
-        "52 Wk Change %": "-17.54%"
+        "52 Wk Change %": "-17.63%"
     },
     {
         "Symbol": "TFC",
@@ -1446,10 +1446,10 @@
         "Change": "-0.40",
         "Change %": "-0.83%",
         "Volume": "11.973M",
-        "Avg Vol (3M)": "7.908M",
-        "Market Cap": "63.191B",
+        "Avg Vol (3M)": "7.982M",
+        "Market Cap": "62.665B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "32.47%"
+        "52 Wk Change %": "31.37%"
     },
     {
         "Symbol": "KIM",
@@ -1458,10 +1458,10 @@
         "Change": "-0.23",
         "Change %": "-1.01%",
         "Volume": "11.743M",
-        "Avg Vol (3M)": "4M",
+        "Avg Vol (3M)": "4.129M",
         "Market Cap": "15.133B",
         "P/E Ratio (TTM)": "41.57",
-        "52 Wk Change %": "14.89%"
+        "52 Wk Change %": "13.73%"
     },
     {
         "Symbol": "IAG",
@@ -1470,10 +1470,10 @@
         "Change": "-0.05",
         "Change %": "-0.79%",
         "Volume": "11.677M",
-        "Avg Vol (3M)": "8.548M",
-        "Market Cap": "3.605B",
-        "P/E Ratio (TTM)": "4.66",
-        "52 Wk Change %": "161.00%"
+        "Avg Vol (3M)": "8.609M",
+        "Market Cap": "3.564B",
+        "P/E Ratio (TTM)": "4.62",
+        "52 Wk Change %": "158.92%"
     },
     {
         "Symbol": "LYFT",
@@ -1482,10 +1482,10 @@
         "Change": "-0.02",
         "Change %": "-0.15%",
         "Volume": "11.592M",
-        "Avg Vol (3M)": "15.752M",
+        "Avg Vol (3M)": "15.683M",
         "Market Cap": "5.617B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "7.70%"
+        "52 Wk Change %": "7.55%"
     },
     {
         "Symbol": "NBIS",
@@ -1494,10 +1494,10 @@
         "Change": "+0.86",
         "Change %": "+2.70%",
         "Volume": "11.557M",
-        "Avg Vol (3M)": "8.004M",
+        "Avg Vol (3M)": "8.064M",
         "Market Cap": "7.69B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "59.00%"
+        "52 Wk Change %": "63.30%"
     },
     {
         "Symbol": "KEY",
@@ -1506,10 +1506,10 @@
         "Change": "-0.05",
         "Change %": "-0.28%",
         "Volume": "11.513M",
-        "Avg Vol (3M)": "10.795M",
+        "Avg Vol (3M)": "10.859M",
         "Market Cap": "19.9B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "26.79%"
+        "52 Wk Change %": "26.44%"
     },
     {
         "Symbol": "VST",
@@ -1518,10 +1518,10 @@
         "Change": "-8.27",
         "Change %": "-4.69%",
         "Volume": "12.142M",
-        "Avg Vol (3M)": "7.189M",
+        "Avg Vol (3M)": "7.272M",
         "Market Cap": "57.168B",
         "P/E Ratio (TTM)": "31.64",
-        "52 Wk Change %": "306.69%"
+        "52 Wk Change %": "287.61%"
     },
     {
         "Symbol": "CL",
@@ -1530,10 +1530,10 @@
         "Change": "-4.19",
         "Change %": "-4.61%",
         "Volume": "11.098M",
-        "Avg Vol (3M)": "4.64M",
+        "Avg Vol (3M)": "4.747M",
         "Market Cap": "70.835B",
-        "P/E Ratio (TTM)": "24.91",
-        "52 Wk Change %": "8.09%"
+        "P/E Ratio (TTM)": "24.70",
+        "52 Wk Change %": "3.10%"
     },
     {
         "Symbol": "PTEN",
@@ -1542,10 +1542,10 @@
         "Change": "-0.17",
         "Change %": "-2.06%",
         "Volume": "12.286M",
-        "Avg Vol (3M)": "8.483M",
-        "Market Cap": "3.213B",
+        "Avg Vol (3M)": "8.555M",
+        "Market Cap": "3.147B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-18.82%"
+        "52 Wk Change %": "-20.49%"
     },
     {
         "Symbol": "CNQ",
@@ -1554,10 +1554,10 @@
         "Change": "-0.60",
         "Change %": "-1.94%",
         "Volume": "10.771M",
-        "Avg Vol (3M)": "4.84M",
-        "Market Cap": "65.737B",
-        "P/E Ratio (TTM)": "12.70",
-        "52 Wk Change %": "3.22%"
+        "Avg Vol (3M)": "4.944M",
+        "Market Cap": "64.364B",
+        "P/E Ratio (TTM)": "12.44",
+        "52 Wk Change %": "1.22%"
     },
     {
         "Symbol": "LUMN",
@@ -1566,10 +1566,10 @@
         "Change": "-0.0600",
         "Change %": "-1.20%",
         "Volume": "10.768M",
-        "Avg Vol (3M)": "14.209M",
+        "Avg Vol (3M)": "14.184M",
         "Market Cap": "5.013B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "287.60%"
+        "52 Wk Change %": "282.95%"
     },
     {
         "Symbol": "CLS",
@@ -1578,10 +1578,10 @@
         "Change": "+9.32",
         "Change %": "+8.16%",
         "Volume": "10.76M",
-        "Avg Vol (3M)": "2.905M",
-        "Market Cap": "14.335B",
-        "P/E Ratio (TTM)": "31.66",
-        "52 Wk Change %": "209.10%"
+        "Avg Vol (3M)": "3.044M",
+        "Market Cap": "14.372B",
+        "P/E Ratio (TTM)": "34.20",
+        "52 Wk Change %": "234.34%"
     },
     {
         "Symbol": "JOBY",
@@ -1590,10 +1590,10 @@
         "Change": "+0.03",
         "Change %": "+0.36%",
         "Volume": "11.596M",
-        "Avg Vol (3M)": "18.384M",
+        "Avg Vol (3M)": "18.272M",
         "Market Cap": "6.32B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "49.09%"
+        "52 Wk Change %": "49.64%"
     },
     {
         "Symbol": "STM",
@@ -1602,10 +1602,10 @@
         "Change": "-0.07",
         "Change %": "-0.31%",
         "Volume": "10.695M",
-        "Avg Vol (3M)": "5.687M",
-        "Market Cap": "22.174B",
+        "Avg Vol (3M)": "5.77M",
+        "Market Cap": "20.135B",
         "P/E Ratio (TTM)": "13.52",
-        "52 Wk Change %": "-49.68%"
+        "52 Wk Change %": "-49.83%"
     },
     {
         "Symbol": "CLF",
@@ -1614,10 +1614,10 @@
         "Change": "-0.25",
         "Change %": "-2.38%",
         "Volume": "10.723M",
-        "Avg Vol (3M)": "15.085M",
+        "Avg Vol (3M)": "15.036M",
         "Market Cap": "5.058B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-47.29%"
+        "52 Wk Change %": "-48.54%"
     },
     {
         "Symbol": "SBSW",
@@ -1626,7 +1626,7 @@
         "Change": "0.0000",
         "Change %": "0.00%",
         "Volume": "10.641M",
-        "Avg Vol (3M)": "5.755M",
+        "Avg Vol (3M)": "5.839M",
         "Market Cap": "2.738B",
         "P/E Ratio (TTM)": "-",
         "52 Wk Change %": "-18.06%"
@@ -1638,10 +1638,10 @@
         "Change": "-0.37",
         "Change %": "-0.86%",
         "Volume": "10.593M",
-        "Avg Vol (3M)": "9.888M",
-        "Market Cap": "49.056B",
+        "Avg Vol (3M)": "9.9M",
+        "Market Cap": "48.635B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "29.17%"
+        "52 Wk Change %": "28.06%"
     },
     {
         "Symbol": "VLY",
@@ -1650,10 +1650,10 @@
         "Change": "+0.03",
         "Change %": "+0.29%",
         "Volume": "10.462M",
-        "Avg Vol (3M)": "8.221M",
+        "Avg Vol (3M)": "8.275M",
         "Market Cap": "5.744B",
         "P/E Ratio (TTM)": "14.90",
-        "52 Wk Change %": "15.43%"
+        "52 Wk Change %": "15.77%"
     },
     {
         "Symbol": "ANET",
@@ -1662,10 +1662,10 @@
         "Change": "+1.37",
         "Change %": "+1.20%",
         "Volume": "10.345M",
-        "Avg Vol (3M)": "8.494M",
+        "Avg Vol (3M)": "8.524M",
         "Market Cap": "145.162B",
-        "P/E Ratio (TTM)": "55.40",
-        "52 Wk Change %": "66.85%"
+        "P/E Ratio (TTM)": "55.13",
+        "52 Wk Change %": "68.85%"
     },
     {
         "Symbol": "VRT",
@@ -1674,10 +1674,10 @@
         "Change": "+2.42",
         "Change %": "+2.11%",
         "Volume": "11.146M",
-        "Avg Vol (3M)": "7.716M",
+        "Avg Vol (3M)": "7.774M",
         "Market Cap": "43.922B",
-        "P/E Ratio (TTM)": "76.48",
-        "52 Wk Change %": "86.10%"
+        "P/E Ratio (TTM)": "78.01",
+        "52 Wk Change %": "90.03%"
     },
     {
         "Symbol": "HST",
@@ -1686,10 +1686,10 @@
         "Change": "+0.07",
         "Change %": "+0.42%",
         "Volume": "10.387M",
-        "Avg Vol (3M)": "7.604M",
+        "Avg Vol (3M)": "7.665M",
         "Market Cap": "11.84B",
         "P/E Ratio (TTM)": "16.22",
-        "52 Wk Change %": "-13.38%"
+        "52 Wk Change %": "-13.01%"
     },
     {
         "Symbol": "CX",
@@ -1698,10 +1698,10 @@
         "Change": "-0.15",
         "Change %": "-2.47%",
         "Volume": "10.247M",
-        "Avg Vol (3M)": "10.285M",
-        "Market Cap": "8.603B",
+        "Avg Vol (3M)": "10.284M",
+        "Market Cap": "8.783B",
         "P/E Ratio (TTM)": "29.65",
-        "52 Wk Change %": "-28.13%"
+        "52 Wk Change %": "-29.91%"
     },
     {
         "Symbol": "UMC",
@@ -1710,10 +1710,10 @@
         "Change": "-0.06",
         "Change %": "-1.03%",
         "Volume": "10.242M",
-        "Avg Vol (3M)": "11.665M",
-        "Market Cap": "15.199B",
+        "Avg Vol (3M)": "11.641M",
+        "Market Cap": "15.319B",
         "P/E Ratio (TTM)": "9.32",
-        "52 Wk Change %": "-23.86%"
+        "52 Wk Change %": "-24.64%"
     },
     {
         "Symbol": "NKE",
@@ -1722,10 +1722,10 @@
         "Change": "-1.43",
         "Change %": "-1.83%",
         "Volume": "10.416M",
-        "Avg Vol (3M)": "11.997M",
-        "Market Cap": "115.86B",
-        "P/E Ratio (TTM)": "24.18",
-        "52 Wk Change %": "-21.42%"
+        "Avg Vol (3M)": "12.015M",
+        "Market Cap": "113.745B",
+        "P/E Ratio (TTM)": "23.73",
+        "52 Wk Change %": "-22.85%"
     },
     {
         "Symbol": "HAL",
@@ -1734,10 +1734,10 @@
         "Change": "-0.52",
         "Change %": "-1.96%",
         "Volume": "10.079M",
-        "Avg Vol (3M)": "10.317M",
+        "Avg Vol (3M)": "10.338M",
         "Market Cap": "22.859B",
         "P/E Ratio (TTM)": "9.19",
-        "52 Wk Change %": "-23.14%"
+        "52 Wk Change %": "-24.65%"
     },
     {
         "Symbol": "MDLZ",
@@ -1746,10 +1746,10 @@
         "Change": "-0.42",
         "Change %": "-0.72%",
         "Volume": "9.718M",
-        "Avg Vol (3M)": "9.288M",
+        "Avg Vol (3M)": "9.302M",
         "Market Cap": "77.544B",
         "P/E Ratio (TTM)": "20.56",
-        "52 Wk Change %": "-22.46%"
+        "52 Wk Change %": "-23.02%"
     },
     {
         "Symbol": "LUV",
@@ -1758,10 +1758,10 @@
         "Change": "-0.55",
         "Change %": "-1.76%",
         "Volume": "9.67M",
-        "Avg Vol (3M)": "7.038M",
+        "Avg Vol (3M)": "7.109M",
         "Market Cap": "18.418B",
         "P/E Ratio (TTM)": "40.41",
-        "52 Wk Change %": "5.08%"
+        "52 Wk Change %": "3.23%"
     },
     {
         "Symbol": "SIRI",
@@ -1770,10 +1770,10 @@
         "Change": "+0.90",
         "Change %": "+3.89%",
         "Volume": "10.646M",
-        "Avg Vol (3M)": "5.556M",
+        "Avg Vol (3M)": "5.644M",
         "Market Cap": "8.134B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-55.04%"
+        "52 Wk Change %": "-53.29%"
     },
     {
         "Symbol": "WMT",
@@ -1782,10 +1782,10 @@
         "Change": "-0.49",
         "Change %": "-0.50%",
         "Volume": "9.745M",
-        "Avg Vol (3M)": "16.878M",
-        "Market Cap": "792.494B",
-        "P/E Ratio (TTM)": "40.90",
-        "52 Wk Change %": "75.47%"
+        "Avg Vol (3M)": "16.87M",
+        "Market Cap": "788.558B",
+        "P/E Ratio (TTM)": "40.56",
+        "52 Wk Change %": "74.60%"
     },
     {
         "Symbol": "C",
@@ -1794,10 +1794,10 @@
         "Change": "-0.43",
         "Change %": "-0.53%",
         "Volume": "9.518M",
-        "Avg Vol (3M)": "14.84M",
-        "Market Cap": "153.659B",
-        "P/E Ratio (TTM)": "13.76",
-        "52 Wk Change %": "50.20%"
+        "Avg Vol (3M)": "14.806M",
+        "Market Cap": "152.852B",
+        "P/E Ratio (TTM)": "13.69",
+        "52 Wk Change %": "49.41%"
     },
     {
         "Symbol": "ABBV",
@@ -1806,10 +1806,10 @@
         "Change": "+8.25",
         "Change %": "+4.70%",
         "Volume": "9.434M",
-        "Avg Vol (3M)": "6.514M",
+        "Avg Vol (3M)": "6.604M",
         "Market Cap": "324.977B",
-        "P/E Ratio (TTM)": "64.30",
-        "52 Wk Change %": "2.56%"
+        "P/E Ratio (TTM)": "76.95",
+        "52 Wk Change %": "7.38%"
     },
     {
         "Symbol": "JD",
@@ -1818,10 +1818,10 @@
         "Change": "-1.58",
         "Change %": "-3.74%",
         "Volume": "9.318M",
-        "Avg Vol (3M)": "10.909M",
-        "Market Cap": "62.495B",
-        "P/E Ratio (TTM)": "13.14",
-        "52 Wk Change %": "88.92%"
+        "Avg Vol (3M)": "10.911M",
+        "Market Cap": "64.925B",
+        "P/E Ratio (TTM)": "12.97",
+        "52 Wk Change %": "81.87%"
     },
     {
         "Symbol": "PTON",
@@ -1830,10 +1830,10 @@
         "Change": "-0.32",
         "Change %": "-3.97%",
         "Volume": "10.159M",
-        "Avg Vol (3M)": "13.581M",
+        "Avg Vol (3M)": "13.527M",
         "Market Cap": "2.956B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "100.75%"
+        "52 Wk Change %": "92.79%"
     },
     {
         "Symbol": "RUN",
@@ -1842,10 +1842,10 @@
         "Change": "-0.37",
         "Change %": "-3.93%",
         "Volume": "9.806M",
-        "Avg Vol (3M)": "10.588M",
+        "Avg Vol (3M)": "10.575M",
         "Market Cap": "2.03B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-30.89%"
+        "52 Wk Change %": "-33.60%"
     },
     {
         "Symbol": "LVS",
@@ -1854,10 +1854,10 @@
         "Change": "-2.41",
         "Change %": "-5.00%",
         "Volume": "9.185M",
-        "Avg Vol (3M)": "4.958M",
+        "Avg Vol (3M)": "5.031M",
         "Market Cap": "33.228B",
         "P/E Ratio (TTM)": "23.38",
-        "52 Wk Change %": "-5.62%"
+        "52 Wk Change %": "-10.33%"
     },
     {
         "Symbol": "PATH",
@@ -1866,10 +1866,10 @@
         "Change": "-0.36",
         "Change %": "-2.47%",
         "Volume": "9.166M",
-        "Avg Vol (3M)": "9.509M",
-        "Market Cap": "8.013B",
+        "Avg Vol (3M)": "9.504M",
+        "Market Cap": "7.815B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-35.23%"
+        "52 Wk Change %": "-36.83%"
     },
     {
         "Symbol": "CRDO",
@@ -1878,10 +1878,10 @@
         "Change": "+5.42",
         "Change %": "+8.39%",
         "Volume": "9.163M",
-        "Avg Vol (3M)": "4.374M",
+        "Avg Vol (3M)": "4.454M",
         "Market Cap": "11.71B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "203.14%"
+        "52 Wk Change %": "228.58%"
     },
     {
         "Symbol": "UAA",
@@ -1890,10 +1890,10 @@
         "Change": "-0.31",
         "Change %": "-3.58%",
         "Volume": "9.092M",
-        "Avg Vol (3M)": "9.964M",
-        "Market Cap": "3.435B",
+        "Avg Vol (3M)": "9.949M",
+        "Market Cap": "3.439B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "12.61%"
+        "52 Wk Change %": "8.58%"
     },
     {
         "Symbol": "DOW",
@@ -1902,10 +1902,10 @@
         "Change": "+0.50",
         "Change %": "+1.30%",
         "Volume": "12.725M",
-        "Avg Vol (3M)": "7.918M",
+        "Avg Vol (3M)": "7.998M",
         "Market Cap": "27.476B",
         "P/E Ratio (TTM)": "24.87",
-        "52 Wk Change %": "-27.48%"
+        "52 Wk Change %": "-26.54%"
     },
     {
         "Symbol": "RBLX",
@@ -1914,10 +1914,10 @@
         "Change": "-0.31",
         "Change %": "-0.43%",
         "Volume": "9.052M",
-        "Avg Vol (3M)": "7.674M",
-        "Market Cap": "46.841B",
+        "Avg Vol (3M)": "7.725M",
+        "Market Cap": "46.638B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "81.40%"
+        "52 Wk Change %": "80.61%"
     },
     {
         "Symbol": "BP",
@@ -1926,10 +1926,10 @@
         "Change": "-0.55",
         "Change %": "-1.74%",
         "Volume": "8.748M",
-        "Avg Vol (3M)": "9.707M",
-        "Market Cap": "81.236B",
+        "Avg Vol (3M)": "9.723M",
+        "Market Cap": "82.377B",
         "P/E Ratio (TTM)": "31.06",
-        "52 Wk Change %": "-7.68%"
+        "52 Wk Change %": "-9.29%"
     },
     {
         "Symbol": "OBDC",
@@ -1938,10 +1938,10 @@
         "Change": "+0.06",
         "Change %": "+0.40%",
         "Volume": "8.693M",
-        "Avg Vol (3M)": "2.215M",
+        "Avg Vol (3M)": "2.323M",
         "Market Cap": "7.719B",
         "P/E Ratio (TTM)": "9.39",
-        "52 Wk Change %": "2.80%"
+        "52 Wk Change %": "3.21%"
     },
     {
         "Symbol": "NLY",
@@ -1950,10 +1950,10 @@
         "Change": "-0.06",
         "Change %": "-0.29%",
         "Volume": "8.681M",
-        "Avg Vol (3M)": "6.574M",
-        "Market Cap": "11.839B",
-        "P/E Ratio (TTM)": "12.68",
-        "52 Wk Change %": "8.31%"
+        "Avg Vol (3M)": "6.621M",
+        "Market Cap": "11.804B",
+        "P/E Ratio (TTM)": "12.60",
+        "52 Wk Change %": "7.99%"
     },
     {
         "Symbol": "INFY",
@@ -1962,10 +1962,10 @@
         "Change": "+0.13",
         "Change %": "+0.60%",
         "Volume": "8.844M",
-        "Avg Vol (3M)": "7.933M",
+        "Avg Vol (3M)": "7.963M",
         "Market Cap": "90.919B",
         "P/E Ratio (TTM)": "27.78",
-        "52 Wk Change %": "7.49%"
+        "52 Wk Change %": "8.13%"
     },
     {
         "Symbol": "GLW",
@@ -1974,10 +1974,10 @@
         "Change": "+2.09",
         "Change %": "+4.18%",
         "Volume": "8.505M",
-        "Avg Vol (3M)": "4.769M",
+        "Avg Vol (3M)": "4.831M",
         "Market Cap": "44.539B",
         "P/E Ratio (TTM)": "89.79",
-        "52 Wk Change %": "56.17%"
+        "52 Wk Change %": "62.70%"
     },
     {
         "Symbol": "DVN",
@@ -1986,10 +1986,10 @@
         "Change": "-0.95",
         "Change %": "-2.71%",
         "Volume": "8.383M",
-        "Avg Vol (3M)": "10.28M",
+        "Avg Vol (3M)": "10.249M",
         "Market Cap": "22.4B",
         "P/E Ratio (TTM)": "6.31",
-        "52 Wk Change %": "-13.86%"
+        "52 Wk Change %": "-16.20%"
     },
     {
         "Symbol": "KO",
@@ -1998,10 +1998,10 @@
         "Change": "-0.57",
         "Change %": "-0.89%",
         "Volume": "8.468M",
-        "Avg Vol (3M)": "17.329M",
-        "Market Cap": "275.915B",
-        "P/E Ratio (TTM)": "26.56",
-        "52 Wk Change %": "6.68%"
+        "Avg Vol (3M)": "17.241M",
+        "Market Cap": "273.459B",
+        "P/E Ratio (TTM)": "26.34",
+        "52 Wk Change %": "5.73%"
     },
     {
         "Symbol": "K",
@@ -2010,10 +2010,10 @@
         "Change": "-0.21",
         "Change %": "-0.26%",
         "Volume": "8.377M",
-        "Avg Vol (3M)": "1.986M",
+        "Avg Vol (3M)": "2.093M",
         "Market Cap": "28.172B",
         "P/E Ratio (TTM)": "27.33",
-        "52 Wk Change %": "51.40%"
+        "52 Wk Change %": "51.02%"
     },
     {
         "Symbol": "HMY",
@@ -2022,10 +2022,10 @@
         "Change": "-0.08",
         "Change %": "-0.70%",
         "Volume": "8.373M",
-        "Avg Vol (3M)": "5.807M",
+        "Avg Vol (3M)": "5.855M",
         "Market Cap": "7.167B",
         "P/E Ratio (TTM)": "15.44",
-        "52 Wk Change %": "83.95%"
+        "52 Wk Change %": "82.66%"
     },
     {
         "Symbol": "TSCO",
@@ -2034,10 +2034,10 @@
         "Change": "+0.07",
         "Change %": "+0.13%",
         "Volume": "9.278M",
-        "Avg Vol (3M)": "5.228M",
+        "Avg Vol (3M)": "5.296M",
         "Market Cap": "29.039B",
         "P/E Ratio (TTM)": "26.65",
-        "52 Wk Change %": "17.53%"
+        "52 Wk Change %": "17.68%"
     },
     {
         "Symbol": "AESI",
@@ -2046,10 +2046,10 @@
         "Change": "-2.06",
         "Change %": "-8.23%",
         "Volume": "8.122M",
-        "Avg Vol (3M)": "1.265M",
-        "Market Cap": "3.815B",
-        "P/E Ratio (TTM)": "36.44",
-        "52 Wk Change %": "48.22%"
+        "Avg Vol (3M)": "1.379M",
+        "Market Cap": "3.501B",
+        "P/E Ratio (TTM)": "33.28",
+        "52 Wk Change %": "36.02%"
     },
     {
         "Symbol": "NEE",
@@ -2058,10 +2058,10 @@
         "Change": "+0.26",
         "Change %": "+0.36%",
         "Volume": "10.708M",
-        "Avg Vol (3M)": "11.016M",
+        "Avg Vol (3M)": "11.011M",
         "Market Cap": "147.156B",
         "P/E Ratio (TTM)": "21.23",
-        "52 Wk Change %": "27.39%"
+        "52 Wk Change %": "27.85%"
     },
     {
         "Symbol": "WDC",
@@ -2070,10 +2070,10 @@
         "Change": "-0.65",
         "Change %": "-0.99%",
         "Volume": "8.033M",
-        "Avg Vol (3M)": "5.662M",
-        "Market Cap": "22.516B",
+        "Avg Vol (3M)": "5.705M",
+        "Market Cap": "22.654B",
         "P/E Ratio (TTM)": "18.82",
-        "52 Wk Change %": "12.50%"
+        "52 Wk Change %": "11.39%"
     },
     {
         "Symbol": "TEAM",
@@ -2082,10 +2082,10 @@
         "Change": "+39.83",
         "Change %": "+14.92%",
         "Volume": "8.322M",
-        "Avg Vol (3M)": "2.007M",
-        "Market Cap": "69.523B",
+        "Avg Vol (3M)": "2.112M",
+        "Market Cap": "80.376B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "24.13%"
+        "52 Wk Change %": "42.66%"
     },
     {
         "Symbol": "NXE",
@@ -2094,10 +2094,10 @@
         "Change": "-0.23",
         "Change %": "-3.39%",
         "Volume": "7.867M",
-        "Avg Vol (3M)": "7.526M",
-        "Market Cap": "3.849B",
-        "P/E Ratio (TTM)": "32.80",
-        "52 Wk Change %": "-14.05%"
+        "Avg Vol (3M)": "7.532M",
+        "Market Cap": "3.706B",
+        "P/E Ratio (TTM)": "31.24",
+        "52 Wk Change %": "-16.96%"
     },
     {
         "Symbol": "QCOM",
@@ -2106,10 +2106,10 @@
         "Change": "+1.00",
         "Change %": "+0.58%",
         "Volume": "7.787M",
-        "Avg Vol (3M)": "8.266M",
+        "Avg Vol (3M)": "8.258M",
         "Market Cap": "191.155B",
-        "P/E Ratio (TTM)": "19.24",
-        "52 Wk Change %": "19.37%"
+        "P/E Ratio (TTM)": "19.34",
+        "52 Wk Change %": "20.07%"
     },
     {
         "Symbol": "VOD",
@@ -2118,10 +2118,10 @@
         "Change": "-0.07",
         "Change %": "-0.81%",
         "Volume": "8.205M",
-        "Avg Vol (3M)": "7.008M",
-        "Market Cap": "21.685B",
+        "Avg Vol (3M)": "7.029M",
+        "Market Cap": "21.725B",
         "P/E Ratio (TTM)": "9.38",
-        "52 Wk Change %": "1.89%"
+        "52 Wk Change %": "1.07%"
     },
     {
         "Symbol": "SCHW",
@@ -2130,10 +2130,10 @@
         "Change": "-0.88",
         "Change %": "-1.05%",
         "Volume": "7.663M",
-        "Avg Vol (3M)": "8.261M",
+        "Avg Vol (3M)": "8.251M",
         "Market Cap": "151.424B",
         "P/E Ratio (TTM)": "27.67",
-        "52 Wk Change %": "34.04%"
+        "52 Wk Change %": "32.63%"
     },
     {
         "Symbol": "ARM",
@@ -2142,10 +2142,10 @@
         "Change": "+6.32",
         "Change %": "+4.12%",
         "Volume": "7.981M",
-        "Avg Vol (3M)": "5.691M",
+        "Avg Vol (3M)": "5.729M",
         "Market Cap": "167.687B",
-        "P/E Ratio (TTM)": "257.34",
-        "52 Wk Change %": "109.13%"
+        "P/E Ratio (TTM)": "261.56",
+        "52 Wk Change %": "117.76%"
     },
     {
         "Symbol": "ETR",
@@ -2154,10 +2154,10 @@
         "Change": "-0.10",
         "Change %": "-0.12%",
         "Volume": "7.475M",
-        "Avg Vol (3M)": "3.532M",
+        "Avg Vol (3M)": "3.598M",
         "Market Cap": "34.768B",
         "P/E Ratio (TTM)": "19.68",
-        "52 Wk Change %": "63.01%"
+        "52 Wk Change %": "62.81%"
     },
     {
         "Symbol": "DNB",
@@ -2166,10 +2166,10 @@
         "Change": "+0.15",
         "Change %": "+1.23%",
         "Volume": "7.471M",
-        "Avg Vol (3M)": "2.735M",
+        "Avg Vol (3M)": "2.814M",
         "Market Cap": "5.431B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "8.48%"
+        "52 Wk Change %": "9.82%"
     },
     {
         "Symbol": "CVS",
@@ -2178,10 +2178,10 @@
         "Change": "-0.34",
         "Change %": "-0.60%",
         "Volume": "7.576M",
-        "Avg Vol (3M)": "13.949M",
+        "Avg Vol (3M)": "13.896M",
         "Market Cap": "71.075B",
         "P/E Ratio (TTM)": "14.34",
-        "52 Wk Change %": "-21.56%"
+        "52 Wk Change %": "-22.03%"
     },
     {
         "Symbol": "HBM",
@@ -2190,10 +2190,10 @@
         "Change": "-0.24",
         "Change %": "-2.82%",
         "Volume": "7.446M",
-        "Avg Vol (3M)": "4.271M",
-        "Market Cap": "3.264B",
+        "Avg Vol (3M)": "4.323M",
+        "Market Cap": "3.258B",
         "P/E Ratio (TTM)": "34.46",
-        "52 Wk Change %": "59.66%"
+        "52 Wk Change %": "55.16%"
     },
     {
         "Symbol": "PAA",
@@ -2202,10 +2202,10 @@
         "Change": "-0.78",
         "Change %": "-3.79%",
         "Volume": "7.493M",
-        "Avg Vol (3M)": "4.058M",
+        "Avg Vol (3M)": "4.121M",
         "Market Cap": "13.933B",
         "P/E Ratio (TTM)": "17.52",
-        "52 Wk Change %": "36.99%"
+        "52 Wk Change %": "29.41%"
     },
     {
         "Symbol": "CPB",
@@ -2214,10 +2214,10 @@
         "Change": "-0.85",
         "Change %": "-2.15%",
         "Volume": "7.371M",
-        "Avg Vol (3M)": "2.798M",
+        "Avg Vol (3M)": "2.875M",
         "Market Cap": "11.558B",
         "P/E Ratio (TTM)": "21.19",
-        "52 Wk Change %": "-9.38%"
+        "52 Wk Change %": "-11.32%"
     },
     {
         "Symbol": "PSX",
@@ -2226,10 +2226,10 @@
         "Change": "-2.97",
         "Change %": "-2.46%",
         "Volume": "7.253M",
-        "Avg Vol (3M)": "2.811M",
+        "Avg Vol (3M)": "2.885M",
         "Market Cap": "48.679B",
-        "P/E Ratio (TTM)": "15.05",
-        "52 Wk Change %": "-17.93%"
+        "P/E Ratio (TTM)": "23.62",
+        "52 Wk Change %": "-19.95%"
     },
     {
         "Symbol": "MDT",
@@ -2238,10 +2238,10 @@
         "Change": "-1.17",
         "Change %": "-1.27%",
         "Volume": "7.214M",
-        "Avg Vol (3M)": "6.82M",
+        "Avg Vol (3M)": "6.827M",
         "Market Cap": "116.458B",
         "P/E Ratio (TTM)": "27.77",
-        "52 Wk Change %": "6.04%"
+        "52 Wk Change %": "4.69%"
     },
     {
         "Symbol": "IBM",
@@ -2250,10 +2250,10 @@
         "Change": "-2.57",
         "Change %": "-1.00%",
         "Volume": "7.197M",
-        "Avg Vol (3M)": "4.08M",
-        "Market Cap": "238.808B",
-        "P/E Ratio (TTM)": "40.14",
-        "52 Wk Change %": "40.81%"
+        "Avg Vol (3M)": "4.132M",
+        "Market Cap": "236.432B",
+        "P/E Ratio (TTM)": "39.83",
+        "52 Wk Change %": "39.41%"
     },
     {
         "Symbol": "U",
@@ -2262,10 +2262,10 @@
         "Change": "-0.81",
         "Change %": "-3.52%",
         "Volume": "7.174M",
-        "Avg Vol (3M)": "11.008M",
+        "Avg Vol (3M)": "10.955M",
         "Market Cap": "8.943B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-26.86%"
+        "52 Wk Change %": "-29.43%"
     },
     {
         "Symbol": "MRK",
@@ -2274,10 +2274,10 @@
         "Change": "-0.13",
         "Change %": "-0.13%",
         "Volume": "7.141M",
-        "Avg Vol (3M)": "11.583M",
+        "Avg Vol (3M)": "11.58M",
         "Market Cap": "249.979B",
         "P/E Ratio (TTM)": "20.67",
-        "52 Wk Change %": "-21.58%"
+        "52 Wk Change %": "-21.68%"
     },
     {
         "Symbol": "ABT",
@@ -2286,10 +2286,10 @@
         "Change": "-0.88",
         "Change %": "-0.68%",
         "Volume": "7.129M",
-        "Avg Vol (3M)": "5.659M",
+        "Avg Vol (3M)": "5.684M",
         "Market Cap": "221.889B",
         "P/E Ratio (TTM)": "16.74",
-        "52 Wk Change %": "15.37%"
+        "52 Wk Change %": "14.58%"
     },
     {
         "Symbol": "SHOP",
@@ -2298,10 +2298,10 @@
         "Change": "-2.38",
         "Change %": "-2.00%",
         "Volume": "7.202M",
-        "Avg Vol (3M)": "8.013M",
-        "Market Cap": "151.733B",
+        "Avg Vol (3M)": "8.009M",
+        "Market Cap": "151.193B",
         "P/E Ratio (TTM)": "109.16",
-        "52 Wk Change %": "46.41%"
+        "52 Wk Change %": "43.49%"
     },
     {
         "Symbol": "MBLY",
@@ -2310,10 +2310,10 @@
         "Change": "+0.22",
         "Change %": "+1.32%",
         "Volume": "7.726M",
-        "Avg Vol (3M)": "7.233M",
+        "Avg Vol (3M)": "7.241M",
         "Market Cap": "13.403B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-39.48%"
+        "52 Wk Change %": "-38.70%"
     },
     {
         "Symbol": "CRH",
@@ -2322,10 +2322,10 @@
         "Change": "-0.76",
         "Change %": "-0.76%",
         "Volume": "7.057M",
-        "Avg Vol (3M)": "3.516M",
-        "Market Cap": "67.035B",
+        "Avg Vol (3M)": "3.575M",
+        "Market Cap": "67.032B",
         "P/E Ratio (TTM)": "19.85",
-        "52 Wk Change %": "37.45%"
+        "52 Wk Change %": "36.40%"
     },
     {
         "Symbol": "NCLH",
@@ -2334,10 +2334,10 @@
         "Change": "-0.72",
         "Change %": "-2.48%",
         "Volume": "7.021M",
-        "Avg Vol (3M)": "9.341M",
+        "Avg Vol (3M)": "9.303M",
         "Market Cap": "12.466B",
         "P/E Ratio (TTM)": "24.87",
-        "52 Wk Change %": "69.60%"
+        "52 Wk Change %": "65.40%"
     },
     {
         "Symbol": "XPEV",
@@ -2346,10 +2346,10 @@
         "Change": "-0.35",
         "Change %": "-2.25%",
         "Volume": "6.997M",
-        "Avg Vol (3M)": "11.66M",
-        "Market Cap": "14.023B",
+        "Avg Vol (3M)": "11.583M",
+        "Market Cap": "14.347B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "97.84%"
+        "52 Wk Change %": "93.39%"
     },
     {
         "Symbol": "ENVX",
@@ -2358,10 +2358,10 @@
         "Change": "-0.32",
         "Change %": "-2.58%",
         "Volume": "6.877M",
-        "Avg Vol (3M)": "6.225M",
+        "Avg Vol (3M)": "6.236M",
         "Market Cap": "2.272B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "35.45%"
+        "52 Wk Change %": "31.95%"
     },
     {
         "Symbol": "CPNG",
@@ -2370,10 +2370,10 @@
         "Change": "-0.09",
         "Change %": "-0.38%",
         "Volume": "7.091M",
-        "Avg Vol (3M)": "7.933M",
+        "Avg Vol (3M)": "7.932M",
         "Market Cap": "42.291B",
         "P/E Ratio (TTM)": "41.25",
-        "52 Wk Change %": "70.52%"
+        "52 Wk Change %": "69.87%"
     },
     {
         "Symbol": "V",
@@ -2382,10 +2382,10 @@
         "Change": "-1.25",
         "Change %": "-0.36%",
         "Volume": "6.977M",
-        "Avg Vol (3M)": "5.976M",
-        "Market Cap": "662.323B",
-        "P/E Ratio (TTM)": "34.60",
-        "52 Wk Change %": "24.48%"
+        "Avg Vol (3M)": "6.02M",
+        "Market Cap": "659.336B",
+        "P/E Ratio (TTM)": "34.49",
+        "52 Wk Change %": "24.03%"
     },
     {
         "Symbol": "ADM",
@@ -2394,10 +2394,10 @@
         "Change": "-0.44",
         "Change %": "-0.85%",
         "Volume": "6.837M",
-        "Avg Vol (3M)": "3.145M",
+        "Avg Vol (3M)": "3.207M",
         "Market Cap": "24.515B",
         "P/E Ratio (TTM)": "14.39",
-        "52 Wk Change %": "-2.44%"
+        "52 Wk Change %": "-3.27%"
     },
     {
         "Symbol": "BF-B",
@@ -2406,10 +2406,10 @@
         "Change": "-0.19",
         "Change %": "-0.57%",
         "Volume": "6.815M",
-        "Avg Vol (3M)": "2.788M",
-        "Market Cap": "15.651B",
+        "Avg Vol (3M)": "2.855M",
+        "Market Cap": "15.655B",
         "P/E Ratio (TTM)": "15.57",
-        "52 Wk Change %": "-41.17%"
+        "52 Wk Change %": "-41.50%"
     },
     {
         "Symbol": "PINS",
@@ -2418,10 +2418,10 @@
         "Change": "+0.03",
         "Change %": "+0.09%",
         "Volume": "6.733M",
-        "Avg Vol (3M)": "11.222M",
-        "Market Cap": "22.255B",
+        "Avg Vol (3M)": "11.185M",
+        "Market Cap": "22.275B",
         "P/E Ratio (TTM)": "103.00",
-        "52 Wk Change %": "-16.99%"
+        "52 Wk Change %": "-16.91%"
     },
     {
         "Symbol": "EPD",
@@ -2430,10 +2430,10 @@
         "Change": "-0.86",
         "Change %": "-2.55%",
         "Volume": "6.699M",
-        "Avg Vol (3M)": "4.319M",
+        "Avg Vol (3M)": "4.365M",
         "Market Cap": "70.771B",
         "P/E Ratio (TTM)": "12.27",
-        "52 Wk Change %": "29.28%"
+        "52 Wk Change %": "24.00%"
     },
     {
         "Symbol": "PDD",
@@ -2442,10 +2442,10 @@
         "Change": "-3.49",
         "Change %": "-3.02%",
         "Volume": "6.655M",
-        "Avg Vol (3M)": "9.485M",
+        "Avg Vol (3M)": "9.457M",
         "Market Cap": "155.417B",
-        "P/E Ratio (TTM)": "11.05",
-        "52 Wk Change %": "-4.74%"
+        "P/E Ratio (TTM)": "10.92",
+        "52 Wk Change %": "-7.62%"
     },
     {
         "Symbol": "TPR",
@@ -2454,10 +2454,10 @@
         "Change": "-2.97",
         "Change %": "-3.91%",
         "Volume": "6.638M",
-        "Avg Vol (3M)": "4.776M",
+        "Avg Vol (3M)": "4.807M",
         "Market Cap": "16.998B",
         "P/E Ratio (TTM)": "21.14",
-        "52 Wk Change %": "88.04%"
+        "52 Wk Change %": "80.68%"
     },
     {
         "Symbol": "PYPL",
@@ -2466,10 +2466,10 @@
         "Change": "-0.99",
         "Change %": "-1.11%",
         "Volume": "8.203M",
-        "Avg Vol (3M)": "8.41M",
-        "Market Cap": "89.797B",
-        "P/E Ratio (TTM)": "21.40",
-        "52 Wk Change %": "45.55%"
+        "Avg Vol (3M)": "8.409M",
+        "Market Cap": "88.805B",
+        "P/E Ratio (TTM)": "21.19",
+        "52 Wk Change %": "43.94%"
     },
     {
         "Symbol": "BIDU",
@@ -2478,10 +2478,10 @@
         "Change": "-4.17",
         "Change %": "-4.40%",
         "Volume": "6.818M",
-        "Avg Vol (3M)": "3.185M",
-        "Market Cap": "30.182B",
-        "P/E Ratio (TTM)": "11.95",
-        "52 Wk Change %": "-8.53%"
+        "Avg Vol (3M)": "3.25M",
+        "Market Cap": "31.574B",
+        "P/E Ratio (TTM)": "11.83",
+        "52 Wk Change %": "-12.56%"
     },
     {
         "Symbol": "TOST",
@@ -2490,10 +2490,10 @@
         "Change": "+0.61",
         "Change %": "+1.51%",
         "Volume": "6.501M",
-        "Avg Vol (3M)": "7.244M",
+        "Avg Vol (3M)": "7.232M",
         "Market Cap": "23.243B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "120.27%"
+        "52 Wk Change %": "123.61%"
     },
     {
         "Symbol": "COIN",
@@ -2502,10 +2502,10 @@
         "Change": "-9.97",
         "Change %": "-3.31%",
         "Volume": "6.498M",
-        "Avg Vol (3M)": "12.631M",
+        "Avg Vol (3M)": "12.529M",
         "Market Cap": "72.934B",
         "P/E Ratio (TTM)": "49.55",
-        "52 Wk Change %": "156.86%"
+        "52 Wk Change %": "148.36%"
     },
     {
         "Symbol": "ADT",
@@ -2514,10 +2514,10 @@
         "Change": "-0.08",
         "Change %": "-1.03%",
         "Volume": "6.487M",
-        "Avg Vol (3M)": "5.394M",
-        "Market Cap": "6.914B",
+        "Avg Vol (3M)": "5.412M",
+        "Market Cap": "6.843B",
         "P/E Ratio (TTM)": "768.00",
-        "52 Wk Change %": "18.47%"
+        "52 Wk Change %": "17.25%"
     },
     {
         "Symbol": "FHN",
@@ -2526,10 +2526,10 @@
         "Change": "-0.05",
         "Change %": "-0.23%",
         "Volume": "6.42M",
-        "Avg Vol (3M)": "6.299M",
+        "Avg Vol (3M)": "6.301M",
         "Market Cap": "11.47B",
         "P/E Ratio (TTM)": "16.10",
-        "52 Wk Change %": "58.76%"
+        "52 Wk Change %": "58.39%"
     },
     {
         "Symbol": "MO",
@@ -2538,10 +2538,10 @@
         "Change": "+0.69",
         "Change %": "+1.34%",
         "Volume": "6.371M",
-        "Avg Vol (3M)": "7.74M",
+        "Avg Vol (3M)": "7.77M",
         "Market Cap": "88.303B",
-        "P/E Ratio (TTM)": "7.88",
-        "52 Wk Change %": "27.20%"
+        "P/E Ratio (TTM)": "7.99",
+        "52 Wk Change %": "28.90%"
     },
     {
         "Symbol": "ORCL",
@@ -2550,10 +2550,10 @@
         "Change": "-0.32",
         "Change %": "-0.19%",
         "Volume": "8.673M",
-        "Avg Vol (3M)": "10.697M",
+        "Avg Vol (3M)": "10.664M",
         "Market Cap": "475.651B",
-        "P/E Ratio (TTM)": "41.58",
-        "52 Wk Change %": "46.39%"
+        "P/E Ratio (TTM)": "41.48",
+        "52 Wk Change %": "46.11%"
     },
     {
         "Symbol": "XEL",
@@ -2562,10 +2562,10 @@
         "Change": "+0.34",
         "Change %": "+0.51%",
         "Volume": "6.307M",
-        "Avg Vol (3M)": "3.654M",
+        "Avg Vol (3M)": "3.7M",
         "Market Cap": "38.589B",
         "P/E Ratio (TTM)": "19.94",
-        "52 Wk Change %": "14.25%"
+        "52 Wk Change %": "14.83%"
     },
     {
         "Symbol": "IPG",
@@ -2574,10 +2574,10 @@
         "Change": "-0.04",
         "Change %": "-0.14%",
         "Volume": "6.298M",
-        "Avg Vol (3M)": "5.757M",
-        "Market Cap": "10.68B",
+        "Avg Vol (3M)": "5.766M",
+        "Market Cap": "10.684B",
         "P/E Ratio (TTM)": "13.52",
-        "52 Wk Change %": "-12.76%"
+        "52 Wk Change %": "-12.88%"
     },
     {
         "Symbol": "COP",
@@ -2586,10 +2586,10 @@
         "Change": "-2.63",
         "Change %": "-2.59%",
         "Volume": "6.265M",
-        "Avg Vol (3M)": "6.814M",
+        "Avg Vol (3M)": "6.805M",
         "Market Cap": "127.843B",
         "P/E Ratio (TTM)": "11.72",
-        "52 Wk Change %": "-7.74%"
+        "52 Wk Change %": "-10.13%"
     },
     {
         "Symbol": "ELAN",
@@ -2598,10 +2598,10 @@
         "Change": "-0.44",
         "Change %": "-3.53%",
         "Volume": "6.264M",
-        "Avg Vol (3M)": "4.632M",
-        "Market Cap": "6.165B",
-        "P/E Ratio (TTM)": "30.07",
-        "52 Wk Change %": "-21.57%"
+        "Avg Vol (3M)": "4.659M",
+        "Market Cap": "5.947B",
+        "P/E Ratio (TTM)": "29.34",
+        "52 Wk Change %": "-24.34%"
     },
     {
         "Symbol": "TME",
@@ -2610,10 +2610,10 @@
         "Change": "-0.29",
         "Change %": "-2.36%",
         "Volume": "6.221M",
-        "Avg Vol (3M)": "6.903M",
-        "Market Cap": "19.053B",
+        "Avg Vol (3M)": "6.891M",
+        "Market Cap": "19.516B",
         "P/E Ratio (TTM)": "22.60",
-        "52 Wk Change %": "32.51%"
+        "52 Wk Change %": "29.37%"
     },
     {
         "Symbol": "HPQ",
@@ -2622,10 +2622,10 @@
         "Change": "-0.30",
         "Change %": "-0.91%",
         "Volume": "6.178M",
-        "Avg Vol (3M)": "7.279M",
+        "Avg Vol (3M)": "7.26M",
         "Market Cap": "30.478B",
         "P/E Ratio (TTM)": "11.57",
-        "52 Wk Change %": "15.78%"
+        "52 Wk Change %": "14.72%"
     },
     {
         "Symbol": "ALAB",
@@ -2634,10 +2634,10 @@
         "Change": "+4.55",
         "Change %": "+4.70%",
         "Volume": "6.432M",
-        "Avg Vol (3M)": "5.439M",
+        "Avg Vol (3M)": "5.455M",
         "Market Cap": "16.086B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "56.17%"
+        "52 Wk Change %": "63.50%"
     },
     {
         "Symbol": "BE",
@@ -2646,10 +2646,10 @@
         "Change": "+0.06",
         "Change %": "+0.26%",
         "Volume": "6.081M",
-        "Avg Vol (3M)": "9.474M",
+        "Avg Vol (3M)": "9.417M",
         "Market Cap": "5.39B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "113.24%"
+        "52 Wk Change %": "113.78%"
     },
     {
         "Symbol": "ED",
@@ -2658,10 +2658,10 @@
         "Change": "-0.12",
         "Change %": "-0.13%",
         "Volume": "6.073M",
-        "Avg Vol (3M)": "2.28M",
+        "Avg Vol (3M)": "2.343M",
         "Market Cap": "32.477B",
         "P/E Ratio (TTM)": "17.62",
-        "52 Wk Change %": "4.67%"
+        "52 Wk Change %": "4.54%"
     },
     {
         "Symbol": "WIT",
@@ -2670,10 +2670,10 @@
         "Change": "-0.0100",
         "Change %": "-0.27%",
         "Volume": "6.066M",
-        "Avg Vol (3M)": "4.105M",
+        "Avg Vol (3M)": "4.138M",
         "Market Cap": "38.385B",
         "P/E Ratio (TTM)": "26.21",
-        "52 Wk Change %": "-36.22%"
+        "52 Wk Change %": "-36.40%"
     },
     {
         "Symbol": "BMY",
@@ -2682,10 +2682,10 @@
         "Change": "-0.19",
         "Change %": "-0.32%",
         "Volume": "6.198M",
-        "Avg Vol (3M)": "10.857M",
-        "Market Cap": "119.946B",
+        "Avg Vol (3M)": "10.865M",
+        "Market Cap": "119.561B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "23.26%"
+        "52 Wk Change %": "22.86%"
     },
     {
         "Symbol": "CMG",
@@ -2694,10 +2694,10 @@
         "Change": "-0.64",
         "Change %": "-1.08%",
         "Volume": "6.046M",
-        "Avg Vol (3M)": "8.764M",
+        "Avg Vol (3M)": "8.757M",
         "Market Cap": "79.507B",
         "P/E Ratio (TTM)": "54.03",
-        "52 Wk Change %": "19.37%"
+        "52 Wk Change %": "18.08%"
     },
     {
         "Symbol": "CAH",
@@ -2706,10 +2706,10 @@
         "Change": "-4.60",
         "Change %": "-3.59%",
         "Volume": "6.026M",
-        "Avg Vol (3M)": "2.253M",
+        "Avg Vol (3M)": "2.316M",
         "Market Cap": "29.872B",
         "P/E Ratio (TTM)": "23.03",
-        "52 Wk Change %": "23.77%"
+        "52 Wk Change %": "19.33%"
     },
     {
         "Symbol": "DELL",
@@ -2718,10 +2718,10 @@
         "Change": "-1.75",
         "Change %": "-1.66%",
         "Volume": "6.071M",
-        "Avg Vol (3M)": "8.18M",
+        "Avg Vol (3M)": "8.145M",
         "Market Cap": "72.282B",
         "P/E Ratio (TTM)": "18.34",
-        "52 Wk Change %": "22.91%"
+        "52 Wk Change %": "20.87%"
     },
     {
         "Symbol": "M",
@@ -2730,10 +2730,10 @@
         "Change": "-0.19",
         "Change %": "-1.20%",
         "Volume": "6.019M",
-        "Avg Vol (3M)": "7.244M",
+        "Avg Vol (3M)": "7.223M",
         "Market Cap": "4.326B",
         "P/E Ratio (TTM)": "25.54",
-        "52 Wk Change %": "-14.11%"
+        "52 Wk Change %": "-15.14%"
     },
     {
         "Symbol": "JNPR",
@@ -2742,10 +2742,10 @@
         "Change": "+0.48",
         "Change %": "+1.40%",
         "Volume": "6.015M",
-        "Avg Vol (3M)": "4.317M",
+        "Avg Vol (3M)": "4.345M",
         "Market Cap": "11.542B",
         "P/E Ratio (TTM)": "45.87",
-        "52 Wk Change %": "-6.93%"
+        "52 Wk Change %": "-5.63%"
     },
     {
         "Symbol": "OKE",
@@ -2754,10 +2754,10 @@
         "Change": "-2.70",
         "Change %": "-2.70%",
         "Volume": "5.952M",
-        "Avg Vol (3M)": "3.459M",
+        "Avg Vol (3M)": "3.501M",
         "Market Cap": "56.646B",
         "P/E Ratio (TTM)": "20.59",
-        "52 Wk Change %": "46.67%"
+        "52 Wk Change %": "42.71%"
     },
     {
         "Symbol": "MCHP",
@@ -2766,10 +2766,10 @@
         "Change": "-0.86",
         "Change %": "-1.56%",
         "Volume": "10.237M",
-        "Avg Vol (3M)": "8.394M",
+        "Avg Vol (3M)": "8.425M",
         "Market Cap": "29.16B",
         "P/E Ratio (TTM)": "37.71",
-        "52 Wk Change %": "-35.46%"
+        "52 Wk Change %": "-36.46%"
     },
     {
         "Symbol": "PBR-A",
@@ -2778,10 +2778,10 @@
         "Change": "+0.12",
         "Change %": "+0.94%",
         "Volume": "5.864M",
-        "Avg Vol (3M)": "5.225M",
-        "Market Cap": "86.639B",
+        "Avg Vol (3M)": "5.236M",
+        "Market Cap": "87.296B",
         "P/E Ratio (TTM)": "5.04",
-        "52 Wk Change %": "-22.69%"
+        "52 Wk Change %": "-21.96%"
     },
     {
         "Symbol": "CP",
@@ -2790,10 +2790,10 @@
         "Change": "-0.22",
         "Change %": "-0.28%",
         "Volume": "5.794M",
-        "Avg Vol (3M)": "3.209M",
-        "Market Cap": "74.947B",
-        "P/E Ratio (TTM)": "28.95",
-        "52 Wk Change %": "-3.80%"
+        "Avg Vol (3M)": "3.252M",
+        "Market Cap": "74.384B",
+        "P/E Ratio (TTM)": "28.84",
+        "52 Wk Change %": "-4.06%"
     },
     {
         "Symbol": "USB",
@@ -2802,10 +2802,10 @@
         "Change": "-0.22",
         "Change %": "-0.46%",
         "Volume": "5.844M",
-        "Avg Vol (3M)": "8.14M",
+        "Avg Vol (3M)": "8.191M",
         "Market Cap": "74.537B",
         "P/E Ratio (TTM)": "12.61",
-        "52 Wk Change %": "19.70%"
+        "52 Wk Change %": "19.15%"
     },
     {
         "Symbol": "IVZ",
@@ -2814,10 +2814,10 @@
         "Change": "+0.01",
         "Change %": "+0.05%",
         "Volume": "5.779M",
-        "Avg Vol (3M)": "3.62M",
+        "Avg Vol (3M)": "3.656M",
         "Market Cap": "8.615B",
         "P/E Ratio (TTM)": "16.30",
-        "52 Wk Change %": "22.58%"
+        "52 Wk Change %": "22.64%"
     },
     {
         "Symbol": "COTY",
@@ -2826,10 +2826,10 @@
         "Change": "-0.15",
         "Change %": "-2.01%",
         "Volume": "5.744M",
-        "Avg Vol (3M)": "5.226M",
+        "Avg Vol (3M)": "5.234M",
         "Market Cap": "6.376B",
         "P/E Ratio (TTM)": "40.72",
-        "52 Wk Change %": "-38.84%"
+        "52 Wk Change %": "-40.07%"
     },
     {
         "Symbol": "EA",
@@ -2838,10 +2838,10 @@
         "Change": "+4.23",
         "Change %": "+3.56%",
         "Volume": "6.546M",
-        "Avg Vol (3M)": "2.619M",
+        "Avg Vol (3M)": "2.685M",
         "Market Cap": "32.236B",
         "P/E Ratio (TTM)": "31.52",
-        "52 Wk Change %": "-12.05%"
+        "52 Wk Change %": "-8.92%"
     },
     {
         "Symbol": "XP",
@@ -2850,10 +2850,10 @@
         "Change": "-0.35",
         "Change %": "-2.50%",
         "Volume": "5.662M",
-        "Avg Vol (3M)": "7.119M",
+        "Avg Vol (3M)": "7.095M",
         "Market Cap": "7.33B",
         "P/E Ratio (TTM)": "10.11",
-        "52 Wk Change %": "-44.64%"
+        "52 Wk Change %": "-46.03%"
     },
     {
         "Symbol": "HUT",
@@ -2862,10 +2862,10 @@
         "Change": "+0.19",
         "Change %": "+0.88%",
         "Volume": "6.375M",
-        "Avg Vol (3M)": "7.285M",
+        "Avg Vol (3M)": "7.272M",
         "Market Cap": "2.032B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "212.50%"
+        "52 Wk Change %": "215.26%"
     },
     {
         "Symbol": "UMBF",
@@ -2874,10 +2874,10 @@
         "Change": "-2.40",
         "Change %": "-2.00%",
         "Volume": "5.642M",
-        "Avg Vol (3M)": "469,413",
+        "Avg Vol (3M)": "555,635",
         "Market Cap": "5.755B",
-        "P/E Ratio (TTM)": "13.11",
-        "52 Wk Change %": "49.72%"
+        "P/E Ratio (TTM)": "13.10",
+        "52 Wk Change %": "46.73%"
     },
     {
         "Symbol": "UAL",
@@ -2886,10 +2886,10 @@
         "Change": "-3.56",
         "Change %": "-3.25%",
         "Volume": "6.067M",
-        "Avg Vol (3M)": "5.732M",
+        "Avg Vol (3M)": "5.739M",
         "Market Cap": "34.808B",
         "P/E Ratio (TTM)": "11.20",
-        "52 Wk Change %": "173.43%"
+        "52 Wk Change %": "164.53%"
     },
     {
         "Symbol": "RTX",
@@ -2898,10 +2898,10 @@
         "Change": "-0.03",
         "Change %": "-0.02%",
         "Volume": "5.568M",
-        "Avg Vol (3M)": "4.702M",
-        "Market Cap": "171.675B",
+        "Avg Vol (3M)": "4.716M",
+        "Market Cap": "171.635B",
         "P/E Ratio (TTM)": "36.32",
-        "52 Wk Change %": "39.83%"
+        "52 Wk Change %": "39.80%"
     },
     {
         "Symbol": "PARA",
@@ -2910,10 +2910,10 @@
         "Change": "-0.10",
         "Change %": "-0.91%",
         "Volume": "6.599M",
-        "Avg Vol (3M)": "10.405M",
-        "Market Cap": "7.729B",
+        "Avg Vol (3M)": "10.344M",
+        "Market Cap": "7.742B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-21.68%"
+        "52 Wk Change %": "-22.40%"
     },
     {
         "Symbol": "GILD",
@@ -2922,10 +2922,10 @@
         "Change": "+0.25",
         "Change %": "+0.26%",
         "Volume": "9.358M",
-        "Avg Vol (3M)": "7.009M",
+        "Avg Vol (3M)": "7.049M",
         "Market Cap": "121.137B",
         "P/E Ratio (TTM)": "1,080.00",
-        "52 Wk Change %": "26.39%"
+        "52 Wk Change %": "26.71%"
     },
     {
         "Symbol": "ETN",
@@ -2934,10 +2934,10 @@
         "Change": "-0.66",
         "Change %": "-0.20%",
         "Volume": "6.313M",
-        "Avg Vol (3M)": "2.43M",
+        "Avg Vol (3M)": "2.497M",
         "Market Cap": "129.009B",
-        "P/E Ratio (TTM)": "34.76",
-        "52 Wk Change %": "21.41%"
+        "P/E Ratio (TTM)": "34.36",
+        "52 Wk Change %": "21.16%"
     },
     {
         "Symbol": "PR",
@@ -2946,10 +2946,10 @@
         "Change": "-0.39",
         "Change %": "-2.59%",
         "Volume": "5.529M",
-        "Avg Vol (3M)": "7.757M",
+        "Avg Vol (3M)": "7.72M",
         "Market Cap": "11.769B",
         "P/E Ratio (TTM)": "8.32",
-        "52 Wk Change %": "16.86%"
+        "52 Wk Change %": "13.83%"
     },
     {
         "Symbol": "DINO",
@@ -2958,10 +2958,10 @@
         "Change": "-0.20",
         "Change %": "-0.55%",
         "Volume": "5.505M",
-        "Avg Vol (3M)": "2.11M",
-        "Market Cap": "6.835B",
-        "P/E Ratio (TTM)": "20.98",
-        "52 Wk Change %": "-37.25%"
+        "Avg Vol (3M)": "2.167M",
+        "Market Cap": "6.798B",
+        "P/E Ratio (TTM)": "20.86",
+        "52 Wk Change %": "-37.60%"
     },
     {
         "Symbol": "GE",
@@ -2970,10 +2970,10 @@
         "Change": "-2.00",
         "Change %": "-0.97%",
         "Volume": "5.503M",
-        "Avg Vol (3M)": "5.32M",
+        "Avg Vol (3M)": "5.323M",
         "Market Cap": "218.571B",
-        "P/E Ratio (TTM)": "33.48",
-        "52 Wk Change %": "87.04%"
+        "P/E Ratio (TTM)": "33.43",
+        "52 Wk Change %": "85.22%"
     },
     {
         "Symbol": "MS",
@@ -2982,10 +2982,10 @@
         "Change": "-0.59",
         "Change %": "-0.42%",
         "Volume": "5.502M",
-        "Avg Vol (3M)": "6.861M",
+        "Avg Vol (3M)": "6.838M",
         "Market Cap": "222.457B",
         "P/E Ratio (TTM)": "17.41",
-        "52 Wk Change %": "62.93%"
+        "52 Wk Change %": "61.17%"
     },
     {
         "Symbol": "APA",
@@ -2994,10 +2994,10 @@
         "Change": "-1.06",
         "Change %": "-4.61%",
         "Volume": "10.906M",
-        "Avg Vol (3M)": "6.842M",
+        "Avg Vol (3M)": "6.975M",
         "Market Cap": "8.113B",
         "P/E Ratio (TTM)": "3.12",
-        "52 Wk Change %": "-22.88%"
+        "52 Wk Change %": "-26.43%"
     },
     {
         "Symbol": "MRNA",
@@ -3006,10 +3006,10 @@
         "Change": "-1.62",
         "Change %": "-3.95%",
         "Volume": "6.489M",
-        "Avg Vol (3M)": "10.487M",
+        "Avg Vol (3M)": "10.421M",
         "Market Cap": "15.17B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-57.02%"
+        "52 Wk Change %": "-58.72%"
     },
     {
         "Symbol": "ONON",
@@ -3018,10 +3018,10 @@
         "Change": "-3.74",
         "Change %": "-5.88%",
         "Volume": "5.763M",
-        "Avg Vol (3M)": "3.308M",
+        "Avg Vol (3M)": "3.349M",
         "Market Cap": "19.359B",
         "P/E Ratio (TTM)": "139.26",
-        "52 Wk Change %": "134.16%"
+        "52 Wk Change %": "120.39%"
     },
     {
         "Symbol": "PK",
@@ -3030,10 +3030,10 @@
         "Change": "+0.01",
         "Change %": "+0.07%",
         "Volume": "5.41M",
-        "Avg Vol (3M)": "3.363M",
+        "Avg Vol (3M)": "3.397M",
         "Market Cap": "2.784B",
         "P/E Ratio (TTM)": "8.70",
-        "52 Wk Change %": "-10.37%"
+        "52 Wk Change %": "-10.31%"
     },
     {
         "Symbol": "TAL",
@@ -3042,10 +3042,10 @@
         "Change": "-0.32",
         "Change %": "-2.55%",
         "Volume": "5.402M",
-        "Avg Vol (3M)": "6.923M",
+        "Avg Vol (3M)": "6.898M",
         "Market Cap": "7.39B",
         "P/E Ratio (TTM)": "64.37",
-        "52 Wk Change %": "11.56%"
+        "52 Wk Change %": "8.71%"
     },
     {
         "Symbol": "BA",
@@ -3054,10 +3054,10 @@
         "Change": "-3.01",
         "Change %": "-1.68%",
         "Volume": "5.436M",
-        "Avg Vol (3M)": "11.156M",
+        "Avg Vol (3M)": "11.072M",
         "Market Cap": "132.252B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-13.12%"
+        "52 Wk Change %": "-14.57%"
     },
     {
         "Symbol": "TTEK",
@@ -3066,10 +3066,10 @@
         "Change": "+0.23",
         "Change %": "+0.63%",
         "Volume": "6.028M",
-        "Avg Vol (3M)": "2.693M",
-        "Market Cap": "9.863B",
+        "Avg Vol (3M)": "2.749M",
+        "Market Cap": "9.864B",
         "P/E Ratio (TTM)": "38.74",
-        "52 Wk Change %": "10.85%"
+        "52 Wk Change %": "11.55%"
     },
     {
         "Symbol": "CE",
@@ -3078,10 +3078,10 @@
         "Change": "-1.13",
         "Change %": "-1.57%",
         "Volume": "5.392M",
-        "Avg Vol (3M)": "2.794M",
+        "Avg Vol (3M)": "2.838M",
         "Market Cap": "7.766B",
         "P/E Ratio (TTM)": "7.08",
-        "52 Wk Change %": "-50.06%"
+        "52 Wk Change %": "-50.84%"
     },
     {
         "Symbol": "ZI",
@@ -3090,10 +3090,10 @@
         "Change": "-0.18",
         "Change %": "-1.72%",
         "Volume": "6.365M",
-        "Avg Vol (3M)": "8.983M",
+        "Avg Vol (3M)": "8.94M",
         "Market Cap": "3.759B",
         "P/E Ratio (TTM)": "343.00",
-        "52 Wk Change %": "-31.92%"
+        "52 Wk Change %": "-33.09%"
     },
     {
         "Symbol": "SU",
@@ -3102,10 +3102,10 @@
         "Change": "-1.08",
         "Change %": "-2.80%",
         "Volume": "5.336M",
-        "Avg Vol (3M)": "4.374M",
-        "Market Cap": "47.458B",
+        "Avg Vol (3M)": "4.39M",
+        "Market Cap": "47.293B",
         "P/E Ratio (TTM)": "8.69",
-        "52 Wk Change %": "21.36%"
+        "52 Wk Change %": "17.96%"
     },
     {
         "Symbol": "AA",
@@ -3114,10 +3114,10 @@
         "Change": "-0.21",
         "Change %": "-0.59%",
         "Volume": "5.308M",
-        "Avg Vol (3M)": "4.731M",
+        "Avg Vol (3M)": "4.741M",
         "Market Cap": "9.125B",
         "P/E Ratio (TTM)": "135.85",
-        "52 Wk Change %": "32.38%"
+        "52 Wk Change %": "31.59%"
     },
     {
         "Symbol": "CAG",
@@ -3126,10 +3126,10 @@
         "Change": "-0.40",
         "Change %": "-1.52%",
         "Volume": "5.29M",
-        "Avg Vol (3M)": "5.383M",
+        "Avg Vol (3M)": "5.381M",
         "Market Cap": "12.358B",
         "P/E Ratio (TTM)": "25.14",
-        "52 Wk Change %": "-7.95%"
+        "52 Wk Change %": "-9.35%"
     },
     {
         "Symbol": "AEG",
@@ -3138,10 +3138,10 @@
         "Change": "-0.05",
         "Change %": "-0.76%",
         "Volume": "5.283M",
-        "Avg Vol (3M)": "4.34M",
-        "Market Cap": "10.739B",
+        "Avg Vol (3M)": "4.357M",
+        "Market Cap": "10.721B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "13.32%"
+        "52 Wk Change %": "12.46%"
     },
     {
         "Symbol": "JPM",
@@ -3150,10 +3150,10 @@
         "Change": "-0.93",
         "Change %": "-0.35%",
         "Volume": "5.283M",
-        "Avg Vol (3M)": "9.59M",
+        "Avg Vol (3M)": "9.55M",
         "Market Cap": "747.798B",
-        "P/E Ratio (TTM)": "13.54",
-        "52 Wk Change %": "53.71%"
+        "P/E Ratio (TTM)": "13.53",
+        "52 Wk Change %": "53.18%"
     },
     {
         "Symbol": "NVO",
@@ -3162,10 +3162,10 @@
         "Change": "-0.89",
         "Change %": "-1.04%",
         "Volume": "5.252M",
-        "Avg Vol (3M)": "7.965M",
-        "Market Cap": "377.047B",
-        "P/E Ratio (TTM)": "28.82",
-        "52 Wk Change %": "-27.84%"
+        "Avg Vol (3M)": "7.941M",
+        "Market Cap": "374.407B",
+        "P/E Ratio (TTM)": "28.53",
+        "52 Wk Change %": "-28.59%"
     },
     {
         "Symbol": "DIS",
@@ -3174,10 +3174,10 @@
         "Change": "-0.37",
         "Change %": "-0.33%",
         "Volume": "5.259M",
-        "Avg Vol (3M)": "9.303M",
-        "Market Cap": "205.134B",
-        "P/E Ratio (TTM)": "41.72",
-        "52 Wk Change %": "17.36%"
+        "Avg Vol (3M)": "9.278M",
+        "Market Cap": "204.464B",
+        "P/E Ratio (TTM)": "41.57",
+        "52 Wk Change %": "16.98%"
     },
     {
         "Symbol": "AM",
@@ -3186,10 +3186,10 @@
         "Change": "-0.21",
         "Change %": "-1.29%",
         "Volume": "5.204M",
-        "Avg Vol (3M)": "2.676M",
-        "Market Cap": "7.822B",
-        "P/E Ratio (TTM)": "20.30",
-        "52 Wk Change %": "34.41%"
+        "Avg Vol (3M)": "2.718M",
+        "Market Cap": "7.72B",
+        "P/E Ratio (TTM)": "20.05",
+        "52 Wk Change %": "32.67%"
     },
     {
         "Symbol": "NWL",
@@ -3198,10 +3198,10 @@
         "Change": "-0.50",
         "Change %": "-4.78%",
         "Volume": "5.805M",
-        "Avg Vol (3M)": "5.34M",
+        "Avg Vol (3M)": "5.35M",
         "Market Cap": "4.143B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "29.30%"
+        "52 Wk Change %": "23.11%"
     },
     {
         "Symbol": "ALIT",
@@ -3210,10 +3210,10 @@
         "Change": "-0.06",
         "Change %": "-0.87%",
         "Volume": "5.193M",
-        "Avg Vol (3M)": "5.901M",
-        "Market Cap": "3.826B",
+        "Avg Vol (3M)": "5.892M",
+        "Market Cap": "3.793B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-23.05%"
+        "52 Wk Change %": "-23.72%"
     },
     {
         "Symbol": "CELH",
@@ -3222,10 +3222,10 @@
         "Change": "-0.80",
         "Change %": "-3.10%",
         "Volume": "5.885M",
-        "Avg Vol (3M)": "7.968M",
-        "Market Cap": "6.059B",
-        "P/E Ratio (TTM)": "35.69",
-        "52 Wk Change %": "-51.55%"
+        "Avg Vol (3M)": "7.934M",
+        "Market Cap": "5.871B",
+        "P/E Ratio (TTM)": "34.69",
+        "52 Wk Change %": "-53.05%"
     },
     {
         "Symbol": "JNJ",
@@ -3234,10 +3234,10 @@
         "Change": "-0.72",
         "Change %": "-0.47%",
         "Volume": "5.281M",
-        "Avg Vol (3M)": "8.649M",
-        "Market Cap": "368.054B",
-        "P/E Ratio (TTM)": "26.37",
-        "52 Wk Change %": "-1.88%"
+        "Avg Vol (3M)": "8.646M",
+        "Market Cap": "366.319B",
+        "P/E Ratio (TTM)": "26.23",
+        "52 Wk Change %": "-2.34%"
     },
     {
         "Symbol": "BRK-B",
@@ -3246,10 +3246,10 @@
         "Change": "-3.68",
         "Change %": "-0.78%",
         "Volume": "5.14M",
-        "Avg Vol (3M)": "4.121M",
-        "Market Cap": "1.011T",
+        "Avg Vol (3M)": "4.143M",
+        "Market Cap": "1.01T",
         "P/E Ratio (TTM)": "9.48",
-        "52 Wk Change %": "20.88%"
+        "52 Wk Change %": "19.94%"
     },
     {
         "Symbol": "EQX",
@@ -3259,9 +3259,9 @@
         "Change %": "-2.10%",
         "Volume": "5.134M",
         "Avg Vol (3M)": "5.135M",
-        "Market Cap": "2.783B",
+        "Market Cap": "2.764B",
         "P/E Ratio (TTM)": "11.04",
-        "52 Wk Change %": "40.59%"
+        "52 Wk Change %": "37.64%"
     },
     {
         "Symbol": "UEC",
@@ -3270,10 +3270,10 @@
         "Change": "-0.21",
         "Change %": "-2.89%",
         "Volume": "5.147M",
-        "Avg Vol (3M)": "7.976M",
+        "Avg Vol (3M)": "7.932M",
         "Market Cap": "2.987B",
         "P/E Ratio (TTM)": "-",
-        "52 Wk Change %": "-8.90%"
+        "52 Wk Change %": "-11.53%"
     },
     {
         "Symbol": "ENB",
@@ -3282,10 +3282,10 @@
         "Change": "-1.26",
         "Change %": "-2.83%",
         "Volume": "5.271M",
-        "Avg Vol (3M)": "4.1M",
-        "Market Cap": "94.682B",
+        "Avg Vol (3M)": "4.135M",
+        "Market Cap": "94.436B",
         "P/E Ratio (TTM)": "21.20",
-        "52 Wk Change %": "28.69%"
+        "52 Wk Change %": "25.04%"
     },
     {
         "Symbol": "GSK",
@@ -3297,6 +3297,6 @@
         "Avg Vol (3M)": "5.136M",
         "Market Cap": "71.96B",
         "P/E Ratio (TTM)": "23.36",
-        "52 Wk Change %": "-14.94%"
+        "52 Wk Change %": "-15.16%"
     }
 ]
