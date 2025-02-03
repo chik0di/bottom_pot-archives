@@ -1,8 +1,6 @@
 ## Overview
 This repository is a collection of Jupyter Notebooks (i refer to as "Scrapebooks") designed for web scraping various websites. Each folder contains specific scrapebooks that use popular web scraping libraries to extract, clean, and save data.
 
-Whether you’re scraping product data, social media insights, or news articles, this repo has you covered with examples tailored for different use cases.
-
 ## Features 
 ### Library Variety: Uses libraries like:
 - BeautifulSoup: For HTML parsing and DOM traversal.
