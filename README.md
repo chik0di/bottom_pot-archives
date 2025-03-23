@@ -5,7 +5,7 @@ This repository is a collection of Jupyter Notebooks (i refer to as "Scrapebooks
 ### Library Variety: Uses libraries like:
 - BeautifulSoup: For HTML parsing and DOM traversal.
 - Selenium: For browser automation and dynamic content scraping.
-- Scrapy: For robust, scalable scraping workflows.
+- Pandas: For data preprocessing.
 - Requests: For efficient HTTP requests.
 
 ### Structured Workflow: 
