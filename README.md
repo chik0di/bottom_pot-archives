@@ -11,7 +11,7 @@ This repository is a collection of Jupyter Notebooks (i refer to as "Scrapebooks
 ### Structured Workflow: 
 Each folder contains scrapebooks targeting specific sites/domains or use cases. It also contains the CSV or JSON format of scraped data.
 
-### Reusable Components 
+### Reusable Components
 Modularized code for request handling, parsing, and exporting.
 
 ### Dynamic Content Handling
