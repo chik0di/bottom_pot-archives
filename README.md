@@ -21,6 +21,12 @@ Modularized code for request handling, parsing, and exporting.
 ### Dynamic Content Handling
 Examples include handling JavaScript-rendered pages with Selenium.
 
-## Technologies Used 
-- Python 3.8+
-- Jupyter Notebooks
+<h2 align="center">Tools and Technologies</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VSCode" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" alt="Jupyter" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
+</p>
