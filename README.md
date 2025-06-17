@@ -4,7 +4,7 @@ This repository is a collection of Jupyter Notebooks (i refer to as "Scrapebooks
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVycTg4Z3FqMXdiZTFidWRhYTJ6N2RicnI5M25ubG9mc2pjOGFpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="ddl" width="400">
 </p>
-
+ 
 <h1 align="center"> Features </h1>
 
 ### Library Variety: 
