@@ -24,7 +24,7 @@ Modularized code for request handling, parsing, and exporting.
 Examples include handling JavaScript-rendered pages with Selenium.
 
 <h2 align="center">Tools and Technologies</h2>
-
+ 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
   &nbsp;&nbsp;&nbsp;
