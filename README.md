@@ -18,7 +18,7 @@ Uses libraries like:
 Each folder contains scrapebooks targeting specific sites/domains or use cases. It also contains the CSV or JSON format of scraped data. 
 
 ### Reusable Components
-Modularized code for request handling, parsing, and exporting.
+Modularized code for request handling, parsing, and exporting. 
 
 ### Dynamic Content Handling
 Examples include handling JavaScript-rendered pages with Selenium.
