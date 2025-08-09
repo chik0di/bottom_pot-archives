@@ -12,7 +12,7 @@ Uses libraries like:
 - BeautifulSoup: For HTML parsing and DOM traversal.
 - Selenium: For browser automation and dynamic content scraping.
 - Pandas: For data preprocessing.
-- Requests: For efficient HTTP requests.
+- Requests: For efficient HTTP requests. 
 
 ### Structured Workflow: 
 Each folder contains scrapebooks targeting specific sites/domains or use cases. It also contains the CSV or JSON format of scraped data. 
