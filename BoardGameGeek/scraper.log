@@ -1,0 +1,507 @@
+2025-08-21 17:51:15 - INFO - ====== WebDriver manager ======
+2025-08-21 17:51:19 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-21 17:51:20 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-21 17:51:21 - INFO - Driver [C:\Users\PC\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-21 17:51:22 - INFO - ============================================================
+2025-08-21 17:51:22 - INFO - Collecting boardgame links across 1 pages...
+2025-08-21 17:51:41 - INFO - 100 links found for this session and stored at GoToGames.txt...
+2025-08-21 17:51:47 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/224517/brass-birmingham
+2025-08-21 17:51:57 - INFO - Now Scraping game 1: Brass: Birmingham | URL: https://boardgamegeek.com/boardgame/224517/brass-birmingham
+2025-08-21 17:52:10 - INFO - Scraping completed for Brass: Birmingham in 28.44 seconds.
+2025-08-21 17:52:10 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:52:10 - INFO - ===========================================================================
+2025-08-21 17:52:13 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1
+2025-08-21 17:52:24 - INFO - Now Scraping game 2: Pandemic Legacy: Season 1 | URL: https://boardgamegeek.com/boardgame/161936/pandemic-legacy-season-1
+2025-08-21 17:52:34 - INFO - Scraping completed for Pandemic Legacy: Season 1 in 24.26 seconds.
+2025-08-21 17:52:34 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:52:34 - INFO - ===========================================================================
+2025-08-21 17:52:36 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/342942/ark-nova
+2025-08-21 17:52:47 - INFO - Now Scraping game 3: Ark Nova | URL: https://boardgamegeek.com/boardgame/342942/ark-nova
+2025-08-21 17:53:18 - INFO - Scraping completed for Ark Nova in 43.68 seconds.
+2025-08-21 17:53:18 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:53:18 - INFO - ===========================================================================
+2025-08-21 17:53:22 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/174430/gloomhaven
+2025-08-21 17:53:32 - INFO - Now Scraping game 4: Gloomhaven | URL: https://boardgamegeek.com/boardgame/174430/gloomhaven
+2025-08-21 17:53:55 - INFO - Scraping completed for Gloomhaven in 36.82 seconds.
+2025-08-21 17:53:55 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:53:55 - INFO - ===========================================================================
+2025-08-21 17:53:57 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition
+2025-08-21 17:54:08 - INFO - Now Scraping game 5: Twilight Imperium: Fourth Edition | URL: https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition
+2025-08-21 17:54:22 - INFO - Scraping completed for Twilight Imperium: Fourth Edition in 27.16 seconds.
+2025-08-21 17:54:22 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:54:22 - INFO - ===========================================================================
+2025-08-21 17:54:25 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/316554/dune-imperium
+2025-08-21 17:54:35 - INFO - Now Scraping game 6: Dune: Imperium | URL: https://boardgamegeek.com/boardgame/316554/dune-imperium
+2025-08-21 17:54:53 - INFO - Scraping completed for Dune: Imperium in 31.22 seconds.
+2025-08-21 17:54:53 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:54:53 - INFO - ===========================================================================
+2025-08-21 17:54:56 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/167791/terraforming-mars
+2025-08-21 17:55:06 - INFO - Now Scraping game 7: Terraforming Mars | URL: https://boardgamegeek.com/boardgame/167791/terraforming-mars
+2025-08-21 17:55:43 - INFO - Scraping completed for Terraforming Mars in 49.86 seconds.
+2025-08-21 17:55:43 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:55:43 - INFO - ===========================================================================
+2025-08-21 17:55:47 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition
+2025-08-21 17:55:58 - INFO - Now Scraping game 8: War of the Ring: Second Edition | URL: https://boardgamegeek.com/boardgame/115746/war-of-the-ring-second-edition
+2025-08-21 17:56:24 - INFO - Scraping completed for War of the Ring: Second Edition in 40.84 seconds.
+2025-08-21 17:56:24 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:56:24 - INFO - ===========================================================================
+2025-08-21 17:56:27 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/187645/star-wars-rebellion
+2025-08-21 17:56:37 - INFO - Now Scraping game 9: Star Wars: Rebellion | URL: https://boardgamegeek.com/boardgame/187645/star-wars-rebellion
+2025-08-21 17:56:48 - INFO - Scraping completed for Star Wars: Rebellion in 24.46 seconds.
+2025-08-21 17:56:48 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:56:48 - INFO - ===========================================================================
+2025-08-21 17:56:50 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/397598/dune-imperium-uprising
+2025-08-21 17:57:01 - INFO - Now Scraping game 10: Dune: Imperium – Uprising | URL: https://boardgamegeek.com/boardgame/397598/dune-imperium-uprising
+2025-08-21 17:57:20 - INFO - Scraping completed for Dune: Imperium – Uprising in 32.14 seconds.
+2025-08-21 17:57:21 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:57:21 - INFO - ===========================================================================
+2025-08-21 17:57:23 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/162886/spirit-island
+2025-08-21 17:57:33 - INFO - Now Scraping game 11: Spirit Island | URL: https://boardgamegeek.com/boardgame/162886/spirit-island
+2025-08-21 17:58:01 - INFO - Scraping completed for Spirit Island in 40.14 seconds.
+2025-08-21 17:58:01 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:58:01 - INFO - ===========================================================================
+2025-08-21 17:58:03 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-of-the-lion
+2025-08-21 17:58:14 - INFO - Now Scraping game 12: Gloomhaven: Jaws of the Lion | URL: https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-of-the-lion
+2025-08-21 17:58:40 - INFO - Scraping completed for Gloomhaven: Jaws of the Lion in 39.09 seconds.
+2025-08-21 17:58:40 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:58:40 - INFO - ===========================================================================
+2025-08-21 17:58:43 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/220308/gaia-project
+2025-08-21 17:58:53 - INFO - Now Scraping game 13: Gaia Project | URL: https://boardgamegeek.com/boardgame/220308/gaia-project
+2025-08-21 17:59:20 - INFO - Scraping completed for Gaia Project in 40.32 seconds.
+2025-08-21 17:59:20 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 17:59:20 - INFO - ===========================================================================
+2025-08-21 17:59:23 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/12333/twilight-struggle
+2025-08-21 17:59:34 - INFO - Now Scraping game 14: Twilight Struggle | URL: https://boardgamegeek.com/boardgame/12333/twilight-struggle
+2025-08-21 18:00:15 - INFO - Scraping completed for Twilight Struggle in 55.23 seconds.
+2025-08-21 18:00:15 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:00:15 - INFO - ===========================================================================
+2025-08-21 18:00:19 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/182028/through-the-ages-a-new-story-of-civilization
+2025-08-21 18:00:29 - INFO - Now Scraping game 15: Through the Ages: A New Story of Civilization | URL: https://boardgamegeek.com/boardgame/182028/through-the-ages-a-new-story-of-civilization
+2025-08-21 18:00:42 - INFO - Scraping completed for Through the Ages: A New Story of Civilization in 26.24 seconds.
+2025-08-21 18:00:42 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:00:42 - INFO - ===========================================================================
+2025-08-21 18:00:45 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/84876/the-castles-of-burgundy
+2025-08-21 18:00:55 - INFO - Now Scraping game 16: The Castles of Burgundy | URL: https://boardgamegeek.com/boardgame/84876/the-castles-of-burgundy
+2025-08-21 18:01:18 - INFO - Scraping completed for The Castles of Burgundy in 36.53 seconds.
+2025-08-21 18:01:18 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:01:18 - INFO - ===========================================================================
+2025-08-21 18:01:21 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/193738/great-western-trail
+2025-08-21 18:01:31 - INFO - Now Scraping game 17: Great Western Trail | URL: https://boardgamegeek.com/boardgame/193738/great-western-trail
+2025-08-21 18:01:53 - INFO - Scraping completed for Great Western Trail in 34.74 seconds.
+2025-08-21 18:01:53 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:01:53 - INFO - ===========================================================================
+2025-08-21 18:01:55 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-for-the-galaxy
+2025-08-21 18:02:06 - INFO - Now Scraping game 18: Eclipse: Second Dawn for the Galaxy | URL: https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-for-the-galaxy
+2025-08-21 18:02:23 - INFO - Scraping completed for Eclipse: Second Dawn for the Galaxy in 29.89 seconds.
+2025-08-21 18:02:23 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:02:23 - INFO - ===========================================================================
+2025-08-21 18:02:26 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/169786/scythe
+2025-08-21 18:02:36 - INFO - Now Scraping game 19: Scythe | URL: https://boardgamegeek.com/boardgame/169786/scythe
+2025-08-21 18:02:58 - INFO - Scraping completed for Scythe in 35.57 seconds.
+2025-08-21 18:02:58 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:02:58 - INFO - ===========================================================================
+2025-08-21 18:03:01 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/28720/brass-lancashire
+2025-08-21 18:03:11 - INFO - Now Scraping game 20: Brass: Lancashire | URL: https://boardgamegeek.com/boardgame/28720/brass-lancashire
+2025-08-21 18:03:44 - INFO - Scraping completed for Brass: Lancashire in 45.69 seconds.
+2025-08-21 18:03:44 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:03:44 - INFO - ===========================================================================
+2025-08-21 18:03:48 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/173346/7-wonders-duel
+2025-08-21 18:03:58 - INFO - Now Scraping game 21: 7 Wonders Duel | URL: https://boardgamegeek.com/boardgame/173346/7-wonders-duel
+2025-08-21 18:04:31 - INFO - Scraping completed for 7 Wonders Duel in 46.44 seconds.
+2025-08-21 18:04:31 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:04:31 - INFO - ===========================================================================
+2025-08-21 18:04:34 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/295770/frosthaven
+2025-08-21 18:04:44 - INFO - Now Scraping game 22: Frosthaven | URL: https://boardgamegeek.com/boardgame/295770/frosthaven
+2025-08-21 18:05:10 - INFO - Scraping completed for Frosthaven in 39.83 seconds.
+2025-08-21 18:05:10 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:05:10 - INFO - ===========================================================================
+2025-08-21 18:05:13 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/167355/nemesis
+2025-08-21 18:05:24 - INFO - Now Scraping game 23: Nemesis | URL: https://boardgamegeek.com/boardgame/167355/nemesis
+2025-08-21 18:05:40 - INFO - Scraping completed for Nemesis in 29.18 seconds.
+2025-08-21 18:05:40 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:05:40 - INFO - ===========================================================================
+2025-08-21 18:05:43 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/266507/clank-legacy-acquisitions-incorporated
+2025-08-21 18:05:53 - INFO - Now Scraping game 24: Clank! Legacy: Acquisitions Incorporated | URL: https://boardgamegeek.com/boardgame/266507/clank-legacy-acquisitions-incorporated
+2025-08-21 18:06:04 - INFO - Scraping completed for Clank! Legacy: Acquisitions Incorporated in 24.20 seconds.
+2025-08-21 18:06:04 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:06:04 - INFO - ===========================================================================
+2025-08-21 18:06:07 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/177736/a-feast-for-odin
+2025-08-21 18:06:18 - INFO - Now Scraping game 25: A Feast for Odin | URL: https://boardgamegeek.com/boardgame/177736/a-feast-for-odin
+2025-08-21 18:06:46 - INFO - Scraping completed for A Feast for Odin in 41.88 seconds.
+2025-08-21 18:06:46 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:06:46 - INFO - ===========================================================================
+2025-08-21 18:06:50 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/124361/concordia
+2025-08-21 18:07:00 - INFO - Now Scraping game 26: Concordia | URL: https://boardgamegeek.com/boardgame/124361/concordia
+2025-08-21 18:07:18 - INFO - Scraping completed for Concordia in 32.59 seconds.
+2025-08-21 18:07:18 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:07:18 - INFO - ===========================================================================
+2025-08-21 18:07:21 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/341169/great-western-trail-second-edition
+2025-08-21 18:07:32 - INFO - Now Scraping game 27: Great Western Trail: Second Edition | URL: https://boardgamegeek.com/boardgame/341169/great-western-trail-second-edition
+2025-08-21 18:07:44 - INFO - Scraping completed for Great Western Trail: Second Edition in 25.67 seconds.
+2025-08-21 18:07:44 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:07:44 - INFO - ===========================================================================
+2025-08-21 18:07:47 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak
+2025-08-21 18:07:58 - INFO - Now Scraping game 28: Lost Ruins of Arnak | URL: https://boardgamegeek.com/boardgame/312484/lost-ruins-of-arnak
+2025-08-21 18:08:30 - INFO - Scraping completed for Lost Ruins of Arnak in 46.07 seconds.
+2025-08-21 18:08:30 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:08:30 - INFO - ===========================================================================
+2025-08-21 18:08:34 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/205637/arkham-horror-the-card-game
+2025-08-21 18:08:44 - INFO - Now Scraping game 29: Arkham Horror: The Card Game | URL: https://boardgamegeek.com/boardgame/205637/arkham-horror-the-card-game
+2025-08-21 18:09:10 - INFO - Scraping completed for Arkham Horror: The Card Game in 39.88 seconds.
+2025-08-21 18:09:10 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:09:10 - INFO - ===========================================================================
+2025-08-21 18:09:13 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/237182/root
+2025-08-21 18:09:24 - INFO - Now Scraping game 30: Root | URL: https://boardgamegeek.com/boardgame/237182/root
+2025-08-21 18:09:43 - INFO - Scraping completed for Root in 32.82 seconds.
+2025-08-21 18:09:43 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:09:43 - INFO - ===========================================================================
+2025-08-21 18:09:46 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/421006/the-lord-of-the-rings-duel-for-middle-earth
+2025-08-21 18:09:57 - INFO - Now Scraping game 31: The Lord of the Rings: Duel for Middle-earth | URL: https://boardgamegeek.com/boardgame/421006/the-lord-of-the-rings-duel-for-middle-earth
+2025-08-21 18:10:33 - INFO - Scraping completed for The Lord of the Rings: Duel for Middle-earth in 50.25 seconds.
+2025-08-21 18:10:33 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:10:33 - INFO - ===========================================================================
+2025-08-21 18:10:37 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/192135/too-many-bones
+2025-08-21 18:10:47 - INFO - Now Scraping game 32: Too Many Bones | URL: https://boardgamegeek.com/boardgame/192135/too-many-bones
+2025-08-21 18:11:12 - INFO - Scraping completed for Too Many Bones in 38.46 seconds.
+2025-08-21 18:11:12 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:11:12 - INFO - ===========================================================================
+2025-08-21 18:11:15 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/120677/terra-mystica
+2025-08-21 18:11:25 - INFO - Now Scraping game 33: Terra Mystica | URL: https://boardgamegeek.com/boardgame/120677/terra-mystica
+2025-08-21 18:11:56 - INFO - Scraping completed for Terra Mystica in 43.79 seconds.
+2025-08-21 18:11:56 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:11:56 - INFO - ===========================================================================
+2025-08-21 18:11:59 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/373106/sky-team
+2025-08-21 18:12:09 - INFO - Now Scraping game 34: Sky Team | URL: https://boardgamegeek.com/boardgame/373106/sky-team
+2025-08-21 18:12:40 - INFO - Scraping completed for Sky Team in 44.71 seconds.
+2025-08-21 18:12:40 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:12:40 - INFO - ===========================================================================
+2025-08-21 18:12:44 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/266192/wingspan
+2025-08-21 18:12:55 - INFO - Now Scraping game 35: Wingspan | URL: https://boardgamegeek.com/boardgame/266192/wingspan
+2025-08-21 18:13:14 - INFO - Scraping completed for Wingspan in 33.14 seconds.
+2025-08-21 18:13:14 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:13:14 - INFO - ===========================================================================
+2025-08-21 18:13:16 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/164928/orleans
+2025-08-21 18:13:27 - INFO - Now Scraping game 36: Orléans | URL: https://boardgamegeek.com/boardgame/164928/orleans
+2025-08-21 18:13:48 - INFO - Scraping completed for Orléans in 34.61 seconds.
+2025-08-21 18:13:48 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:13:48 - INFO - ===========================================================================
+2025-08-21 18:13:52 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/338960/slay-the-spire-the-board-game
+2025-08-21 18:14:03 - INFO - Now Scraping game 37: Slay the Spire: The Board Game | URL: https://boardgamegeek.com/boardgame/338960/slay-the-spire-the-board-game
+2025-08-21 18:14:31 - INFO - Scraping completed for Slay the Spire: The Board Game in 43.14 seconds.
+2025-08-21 18:14:31 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:14:31 - INFO - ===========================================================================
+2025-08-21 18:14:35 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/418059/seti-search-for-extraterrestrial-intelligence
+2025-08-21 18:14:45 - INFO - Now Scraping game 38: SETI: Search for Extraterrestrial Intelligence | URL: https://boardgamegeek.com/boardgame/418059/seti-search-for-extraterrestrial-intelligence
+2025-08-21 18:15:21 - INFO - Scraping completed for SETI: Search for Extraterrestrial Intelligence in 49.21 seconds.
+2025-08-21 18:15:21 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:15:21 - INFO - ===========================================================================
+2025-08-21 18:15:24 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/96848/mage-knight-board-game
+2025-08-21 18:15:35 - INFO - Now Scraping game 39: Mage Knight Board Game | URL: https://boardgamegeek.com/boardgame/96848/mage-knight-board-game
+2025-08-21 18:15:54 - INFO - Scraping completed for Mage Knight Board Game in 33.74 seconds.
+2025-08-21 18:15:54 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:15:54 - INFO - ===========================================================================
+2025-08-21 18:15:57 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/251247/barrage
+2025-08-21 18:16:08 - INFO - Now Scraping game 40: Barrage | URL: https://boardgamegeek.com/boardgame/251247/barrage
+2025-08-21 18:16:35 - INFO - Scraping completed for Barrage in 40.30 seconds.
+2025-08-21 18:16:35 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:16:35 - INFO - ===========================================================================
+2025-08-21 18:16:38 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/324856/the-crew-mission-deep-sea
+2025-08-21 18:16:48 - INFO - Now Scraping game 41: The Crew: Mission Deep Sea | URL: https://boardgamegeek.com/boardgame/324856/the-crew-mission-deep-sea
+2025-08-21 18:17:16 - INFO - Scraping completed for The Crew: Mission Deep Sea in 40.92 seconds.
+2025-08-21 18:17:16 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:17:16 - INFO - ===========================================================================
+2025-08-21 18:17:19 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/199792/everdell
+2025-08-21 18:17:29 - INFO - Now Scraping game 42: Everdell | URL: https://boardgamegeek.com/boardgame/199792/everdell
+2025-08-21 18:18:00 - INFO - Scraping completed for Everdell in 44.10 seconds.
+2025-08-21 18:18:00 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:18:00 - INFO - ===========================================================================
+2025-08-21 18:18:04 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition
+2025-08-21 18:18:14 - INFO - Now Scraping game 43: Viticulture Essential Edition | URL: https://boardgamegeek.com/boardgame/183394/viticulture-essential-edition
+2025-08-21 18:18:22 - INFO - Scraping completed for Viticulture Essential Edition in 21.66 seconds.
+2025-08-21 18:18:22 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:18:22 - INFO - ===========================================================================
+2025-08-21 18:18:25 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/321608/hegemony-lead-your-class-to-victory
+2025-08-21 18:18:35 - INFO - Now Scraping game 44: Hegemony: Lead Your Class to Victory | URL: https://boardgamegeek.com/boardgame/321608/hegemony-lead-your-class-to-victory
+2025-08-21 18:18:55 - INFO - Scraping completed for Hegemony: Lead Your Class to Victory in 33.21 seconds.
+2025-08-21 18:18:55 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:18:55 - INFO - ===========================================================================
+2025-08-21 18:18:58 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/366013/heat-pedal-to-the-metal
+2025-08-21 18:19:09 - INFO - Now Scraping game 45: Heat: Pedal to the Metal | URL: https://boardgamegeek.com/boardgame/366013/heat-pedal-to-the-metal
+2025-08-21 18:19:17 - INFO - Scraping completed for Heat: Pedal to the Metal in 21.93 seconds.
+2025-08-21 18:19:17 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:19:17 - INFO - ===========================================================================
+2025-08-21 18:19:20 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/285774/marvel-champions-the-card-game
+2025-08-21 18:19:30 - INFO - Now Scraping game 46: Marvel Champions: The Card Game | URL: https://boardgamegeek.com/boardgame/285774/marvel-champions-the-card-game
+2025-08-21 18:19:49 - INFO - Scraping completed for Marvel Champions: The Card Game in 31.68 seconds.
+2025-08-21 18:19:49 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:19:49 - INFO - ===========================================================================
+2025-08-21 18:19:51 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/521/crokinole
+2025-08-21 18:20:02 - INFO - Now Scraping game 47: Crokinole | URL: https://boardgamegeek.com/boardgame/521/crokinole
+2025-08-21 18:20:21 - INFO - Scraping completed for Crokinole in 32.93 seconds.
+2025-08-21 18:20:22 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:20:22 - INFO - ===========================================================================
+2025-08-21 18:20:25 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/284378/kanban-ev
+2025-08-21 18:20:35 - INFO - Now Scraping game 48: Kanban EV | URL: https://boardgamegeek.com/boardgame/284378/kanban-ev
+2025-08-21 18:20:40 - INFO - Scraping completed for Kanban EV in 18.61 seconds.
+2025-08-21 18:20:40 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:20:40 - INFO - ===========================================================================
+2025-08-21 18:20:42 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/175914/food-chain-magnate
+2025-08-21 18:20:52 - INFO - Now Scraping game 49: Food Chain Magnate | URL: https://boardgamegeek.com/boardgame/175914/food-chain-magnate
+2025-08-21 18:21:10 - INFO - Scraping completed for Food Chain Magnate in 30.26 seconds.
+2025-08-21 18:21:10 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:21:10 - INFO - ===========================================================================
+2025-08-21 18:21:13 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/247763/underwater-cities
+2025-08-21 18:21:23 - INFO - Now Scraping game 50: Underwater Cities | URL: https://boardgamegeek.com/boardgame/247763/underwater-cities
+2025-08-21 18:21:41 - INFO - Scraping completed for Underwater Cities in 31.01 seconds.
+2025-08-21 18:21:41 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:21:41 - INFO - ===========================================================================
+2025-08-21 18:21:44 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition
+2025-08-21 18:21:54 - INFO - Now Scraping game 51: Pax Pamir: Second Edition | URL: https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition
+2025-08-21 18:22:02 - INFO - Scraping completed for Pax Pamir: Second Edition in 20.06 seconds.
+2025-08-21 18:22:02 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:22:02 - INFO - ===========================================================================
+2025-08-21 18:22:05 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/3076/puerto-rico
+2025-08-21 18:22:15 - INFO - Now Scraping game 52: Puerto Rico | URL: https://boardgamegeek.com/boardgame/3076/puerto-rico
+2025-08-21 18:22:35 - INFO - Scraping completed for Puerto Rico in 33.29 seconds.
+2025-08-21 18:22:35 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:22:35 - INFO - ===========================================================================
+2025-08-21 18:22:38 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/253344/cthulhu-death-may-die
+2025-08-21 18:22:49 - INFO - Now Scraping game 53: Cthulhu: Death May Die | URL: https://boardgamegeek.com/boardgame/253344/cthulhu-death-may-die
+2025-08-21 18:23:08 - INFO - Scraping completed for Cthulhu: Death May Die in 33.39 seconds.
+2025-08-21 18:23:08 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:23:08 - INFO - ===========================================================================
+2025-08-21 18:23:12 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/295947/cascadia
+2025-08-21 18:23:22 - INFO - Now Scraping game 54: Cascadia | URL: https://boardgamegeek.com/boardgame/295947/cascadia
+2025-08-21 18:23:42 - INFO - Scraping completed for Cascadia in 33.34 seconds.
+2025-08-21 18:23:42 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:23:42 - INFO - ===========================================================================
+2025-08-21 18:23:45 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/184267/on-mars
+2025-08-21 18:23:56 - INFO - Now Scraping game 55: On Mars | URL: https://boardgamegeek.com/boardgame/184267/on-mars
+2025-08-21 18:24:15 - INFO - Scraping completed for On Mars in 33.61 seconds.
+2025-08-21 18:24:15 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:24:15 - INFO - ===========================================================================
+2025-08-21 18:24:19 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/314040/pandemic-legacy-season-0
+2025-08-21 18:24:30 - INFO - Now Scraping game 56: Pandemic Legacy: Season 0 | URL: https://boardgamegeek.com/boardgame/314040/pandemic-legacy-season-0
+2025-08-21 18:24:37 - INFO - Scraping completed for Pandemic Legacy: Season 0 in 21.19 seconds.
+2025-08-21 18:24:37 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:24:37 - INFO - ===========================================================================
+2025-08-21 18:24:40 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/102794/caverna-the-cave-farmers
+2025-08-21 18:24:51 - INFO - Now Scraping game 57: Caverna: The Cave Farmers | URL: https://boardgamegeek.com/boardgame/102794/caverna-the-cave-farmers
+2025-08-21 18:25:10 - INFO - Scraping completed for Caverna: The Cave Farmers in 33.44 seconds.
+2025-08-21 18:25:10 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:25:10 - INFO - ===========================================================================
+2025-08-21 18:25:13 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/185343/anachrony
+2025-08-21 18:25:24 - INFO - Now Scraping game 58: Anachrony | URL: https://boardgamegeek.com/boardgame/185343/anachrony
+2025-08-21 18:25:43 - INFO - Scraping completed for Anachrony in 32.93 seconds.
+2025-08-21 18:25:43 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:25:43 - INFO - ===========================================================================
+2025-08-21 18:25:46 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/383179/age-of-innovation
+2025-08-21 18:25:57 - INFO - Now Scraping game 59: Age of Innovation | URL: https://boardgamegeek.com/boardgame/383179/age-of-innovation
+2025-08-21 18:26:16 - INFO - Scraping completed for Age of Innovation in 33.02 seconds.
+2025-08-21 18:26:16 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:26:16 - INFO - ===========================================================================
+2025-08-21 18:26:19 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/170216/blood-rage
+2025-08-21 18:26:30 - INFO - Now Scraping game 60: Blood Rage | URL: https://boardgamegeek.com/boardgame/170216/blood-rage
+2025-08-21 18:26:49 - INFO - Scraping completed for Blood Rage in 33.03 seconds.
+2025-08-21 18:26:49 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:26:49 - INFO - ===========================================================================
+2025-08-21 18:26:52 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/31260/agricola
+2025-08-21 18:27:02 - INFO - Now Scraping game 61: Agricola | URL: https://boardgamegeek.com/boardgame/31260/agricola
+2025-08-21 18:27:10 - INFO - Scraping completed for Agricola in 21.15 seconds.
+2025-08-21 18:27:10 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:27:10 - INFO - ===========================================================================
+2025-08-21 18:27:14 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/251661/oathsworn-into-the-deepwood
+2025-08-21 18:27:24 - INFO - Now Scraping game 62: Oathsworn: Into the Deepwood | URL: https://boardgamegeek.com/boardgame/251661/oathsworn-into-the-deepwood
+2025-08-21 18:27:44 - INFO - Scraping completed for Oathsworn: Into the Deepwood in 33.23 seconds.
+2025-08-21 18:27:44 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:27:44 - INFO - ===========================================================================
+2025-08-21 18:27:47 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/161533/lisboa
+2025-08-21 18:27:57 - INFO - Now Scraping game 63: Lisboa | URL: https://boardgamegeek.com/boardgame/161533/lisboa
+2025-08-21 18:28:05 - INFO - Scraping completed for Lisboa in 21.36 seconds.
+2025-08-21 18:28:05 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:28:05 - INFO - ===========================================================================
+2025-08-21 18:28:08 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/255984/sleeping-gods
+2025-08-21 18:28:19 - INFO - Now Scraping game 64: Sleeping Gods | URL: https://boardgamegeek.com/boardgame/255984/sleeping-gods
+2025-08-21 18:28:41 - INFO - Scraping completed for Sleeping Gods in 36.12 seconds.
+2025-08-21 18:28:41 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:28:41 - INFO - ===========================================================================
+2025-08-21 18:28:44 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/231733/obsession
+2025-08-21 18:28:55 - INFO - Now Scraping game 65: Obsession | URL: https://boardgamegeek.com/boardgame/231733/obsession
+2025-08-21 18:29:13 - INFO - Scraping completed for Obsession in 32.07 seconds.
+2025-08-21 18:29:13 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:29:13 - INFO - ===========================================================================
+2025-08-21 18:29:17 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/182874/grand-austria-hotel
+2025-08-21 18:29:27 - INFO - Now Scraping game 66: Grand Austria Hotel | URL: https://boardgamegeek.com/boardgame/182874/grand-austria-hotel
+2025-08-21 18:29:35 - INFO - Scraping completed for Grand Austria Hotel in 21.24 seconds.
+2025-08-21 18:29:35 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:29:35 - INFO - ===========================================================================
+2025-08-21 18:29:38 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/221107/pandemic-legacy-season-2
+2025-08-21 18:29:48 - INFO - Now Scraping game 67: Pandemic Legacy: Season 2 | URL: https://boardgamegeek.com/boardgame/221107/pandemic-legacy-season-2
+2025-08-21 18:30:08 - INFO - Scraping completed for Pandemic Legacy: Season 2 in 33.34 seconds.
+2025-08-21 18:30:08 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:30:08 - INFO - ===========================================================================
+2025-08-21 18:30:11 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/365717/clank-catacombs
+2025-08-21 18:30:21 - INFO - Now Scraping game 68: Clank!: Catacombs | URL: https://boardgamegeek.com/boardgame/365717/clank-catacombs
+2025-08-21 18:30:41 - INFO - Scraping completed for Clank!: Catacombs in 32.93 seconds.
+2025-08-21 18:30:41 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:30:41 - INFO - ===========================================================================
+2025-08-21 18:30:44 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/205059/mansions-of-madness-second-edition
+2025-08-21 18:30:55 - INFO - Now Scraping game 69: Mansions of Madness: Second Edition | URL: https://boardgamegeek.com/boardgame/205059/mansions-of-madness-second-edition
+2025-08-21 18:31:14 - INFO - Scraping completed for Mansions of Madness: Second Edition in 33.43 seconds.
+2025-08-21 18:31:15 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:31:15 - INFO - ===========================================================================
+2025-08-21 18:31:18 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/126163/tzolkin-the-mayan-calendar
+2025-08-21 18:31:28 - INFO - Now Scraping game 70: Tzolk'in: The Mayan Calendar | URL: https://boardgamegeek.com/boardgame/126163/tzolkin-the-mayan-calendar
+2025-08-21 18:31:47 - INFO - Scraping completed for Tzolk'in: The Mayan Calendar in 32.83 seconds.
+2025-08-21 18:31:47 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:31:47 - INFO - ===========================================================================
+2025-08-21 18:31:51 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/2651/power-grid
+2025-08-21 18:32:01 - INFO - Now Scraping game 71: Power Grid | URL: https://boardgamegeek.com/boardgame/2651/power-grid
+2025-08-21 18:32:20 - INFO - Scraping completed for Power Grid in 32.92 seconds.
+2025-08-21 18:32:20 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:32:20 - INFO - ===========================================================================
+2025-08-21 18:32:23 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/414317/harmonies
+2025-08-21 18:32:34 - INFO - Now Scraping game 72: Harmonies | URL: https://boardgamegeek.com/boardgame/414317/harmonies
+2025-08-21 18:32:53 - INFO - Scraping completed for Harmonies in 33.02 seconds.
+2025-08-21 18:32:53 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:32:53 - INFO - ===========================================================================
+2025-08-21 18:32:57 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/244521/quacks
+2025-08-21 18:33:07 - INFO - Now Scraping game 73: Quacks | URL: https://boardgamegeek.com/boardgame/244521/quacks
+2025-08-21 18:33:26 - INFO - Scraping completed for Quacks in 32.82 seconds.
+2025-08-21 18:33:26 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:33:26 - INFO - ===========================================================================
+2025-08-21 18:33:29 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/216132/clans-of-caledonia
+2025-08-21 18:33:39 - INFO - Now Scraping game 74: Clans of Caledonia | URL: https://boardgamegeek.com/boardgame/216132/clans-of-caledonia
+2025-08-21 18:33:59 - INFO - Scraping completed for Clans of Caledonia in 33.05 seconds.
+2025-08-21 18:33:59 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:33:59 - INFO - ===========================================================================
+2025-08-21 18:34:03 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/390092/ticket-to-ride-legacy-legends-of-the-west
+2025-08-21 18:34:13 - INFO - Now Scraping game 75: Ticket to Ride Legacy: Legends of the West | URL: https://boardgamegeek.com/boardgame/390092/ticket-to-ride-legacy-legends-of-the-west
+2025-08-21 18:34:20 - INFO - Scraping completed for Ticket to Ride Legacy: Legends of the West in 20.98 seconds.
+2025-08-21 18:34:20 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:34:20 - INFO - ===========================================================================
+2025-08-21 18:34:23 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/266810/paladins-of-the-west-kingdom
+2025-08-21 18:34:34 - INFO - Now Scraping game 76: Paladins of the West Kingdom | URL: https://boardgamegeek.com/boardgame/266810/paladins-of-the-west-kingdom
+2025-08-21 18:34:53 - INFO - Scraping completed for Paladins of the West Kingdom in 32.54 seconds.
+2025-08-21 18:34:53 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:34:53 - INFO - ===========================================================================
+2025-08-21 18:34:56 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/35677/le-havre
+2025-08-21 18:35:07 - INFO - Now Scraping game 77: Le Havre | URL: https://boardgamegeek.com/boardgame/35677/le-havre
+2025-08-21 18:35:26 - INFO - Scraping completed for Le Havre in 33.13 seconds.
+2025-08-21 18:35:26 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:35:26 - INFO - ===========================================================================
+2025-08-21 18:35:30 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/125153/the-gallerist
+2025-08-21 18:35:40 - INFO - Now Scraping game 78: The Gallerist | URL: https://boardgamegeek.com/boardgame/125153/the-gallerist
+2025-08-21 18:36:00 - INFO - Scraping completed for The Gallerist in 33.34 seconds.
+2025-08-21 18:36:00 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:36:00 - INFO - ===========================================================================
+2025-08-21 18:36:03 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/276025/maracaibo
+2025-08-21 18:36:13 - INFO - Now Scraping game 79: Maracaibo | URL: https://boardgamegeek.com/boardgame/276025/maracaibo
+2025-08-21 18:36:33 - INFO - Scraping completed for Maracaibo in 32.91 seconds.
+2025-08-21 18:36:33 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:36:33 - INFO - ===========================================================================
+2025-08-21 18:36:36 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/164153/star-wars-imperial-assault
+2025-08-21 18:36:46 - INFO - Now Scraping game 80: Star Wars: Imperial Assault | URL: https://boardgamegeek.com/boardgame/164153/star-wars-imperial-assault
+2025-08-21 18:36:54 - INFO - Scraping completed for Star Wars: Imperial Assault in 21.11 seconds.
+2025-08-21 18:36:54 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:36:54 - INFO - ===========================================================================
+2025-08-21 18:36:58 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/124742/android-netrunner
+2025-08-21 18:37:09 - INFO - Now Scraping game 81: Android: Netrunner | URL: https://boardgamegeek.com/boardgame/124742/android-netrunner
+2025-08-21 18:37:28 - INFO - Scraping completed for Android: Netrunner in 34.25 seconds.
+2025-08-21 18:37:28 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:37:28 - INFO - ===========================================================================
+2025-08-21 18:37:32 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/371942/the-white-castle
+2025-08-21 18:37:42 - INFO - Now Scraping game 82: The White Castle | URL: https://boardgamegeek.com/boardgame/371942/the-white-castle
+2025-08-21 18:38:02 - INFO - Scraping completed for The White Castle in 33.53 seconds.
+2025-08-21 18:38:02 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:38:02 - INFO - ===========================================================================
+2025-08-21 18:38:05 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/200680/agricola-revised-edition
+2025-08-21 18:38:15 - INFO - Now Scraping game 83: Agricola (Revised Edition) | URL: https://boardgamegeek.com/boardgame/200680/agricola-revised-edition
+2025-08-21 18:38:35 - INFO - Scraping completed for Agricola (Revised Edition) in 32.87 seconds.
+2025-08-21 18:38:35 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:38:35 - INFO - ===========================================================================
+2025-08-21 18:38:38 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/209010/mechs-vs-minions
+2025-08-21 18:38:48 - INFO - Now Scraping game 84: Mechs vs. Minions | URL: https://boardgamegeek.com/boardgame/209010/mechs-vs-minions
+2025-08-21 18:39:07 - INFO - Scraping completed for Mechs vs. Minions in 32.84 seconds.
+2025-08-21 18:39:08 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:39:08 - INFO - ===========================================================================
+2025-08-21 18:39:11 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/284083/the-crew-the-quest-for-planet-nine
+2025-08-21 18:39:21 - INFO - Now Scraping game 85: The Crew: The Quest for Planet Nine | URL: https://boardgamegeek.com/boardgame/284083/the-crew-the-quest-for-planet-nine
+2025-08-21 18:39:41 - INFO - Scraping completed for The Crew: The Quest for Planet Nine in 33.43 seconds.
+2025-08-21 18:39:41 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:39:41 - INFO - ===========================================================================
+2025-08-21 18:39:43 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/55690/kingdom-death-monster
+2025-08-21 18:39:53 - INFO - Now Scraping game 86: Kingdom Death: Monster | URL: https://boardgamegeek.com/boardgame/55690/kingdom-death-monster
+2025-08-21 18:40:12 - INFO - Scraping completed for Kingdom Death: Monster in 31.47 seconds.
+2025-08-21 18:40:13 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:40:13 - INFO - ===========================================================================
+2025-08-21 18:40:17 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/240980/blood-on-the-clocktower
+2025-08-21 18:40:27 - INFO - Now Scraping game 87: Blood on the Clocktower | URL: https://boardgamegeek.com/boardgame/240980/blood-on-the-clocktower
+2025-08-21 18:40:47 - INFO - Scraping completed for Blood on the Clocktower in 34.76 seconds.
+2025-08-21 18:40:47 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:40:47 - INFO - ===========================================================================
+2025-08-21 18:40:51 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/28143/race-for-the-galaxy
+2025-08-21 18:41:01 - INFO - Now Scraping game 88: Race for the Galaxy | URL: https://boardgamegeek.com/boardgame/28143/race-for-the-galaxy
+2025-08-21 18:41:09 - INFO - Scraping completed for Race for the Galaxy in 21.55 seconds.
+2025-08-21 18:41:09 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:41:09 - INFO - ===========================================================================
+2025-08-21 18:41:12 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/380607/great-western-trail-new-zealand
+2025-08-21 18:41:23 - INFO - Now Scraping game 89: Great Western Trail: New Zealand | URL: https://boardgamegeek.com/boardgame/380607/great-western-trail-new-zealand
+2025-08-21 18:41:30 - INFO - Scraping completed for Great Western Trail: New Zealand in 20.66 seconds.
+2025-08-21 18:41:30 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:41:30 - INFO - ===========================================================================
+2025-08-21 18:41:33 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/230802/azul
+2025-08-21 18:41:43 - INFO - Now Scraping game 90: Azul | URL: https://boardgamegeek.com/boardgame/230802/azul
+2025-08-21 18:42:03 - INFO - Scraping completed for Azul in 32.98 seconds.
+2025-08-21 18:42:03 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:42:03 - INFO - ===========================================================================
+2025-08-21 18:42:06 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/332772/revive
+2025-08-21 18:42:16 - INFO - Now Scraping game 91: Revive | URL: https://boardgamegeek.com/boardgame/332772/revive
+2025-08-21 18:42:52 - INFO - Scraping completed for Revive in 49.40 seconds.
+2025-08-21 18:42:52 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:42:52 - INFO - ===========================================================================
+2025-08-21 18:43:20 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/157354/five-tribes-the-djinns-of-naqala
+2025-08-21 18:43:30 - INFO - Now Scraping game 92: Five Tribes: The Djinns of Naqala | URL: https://boardgamegeek.com/boardgame/157354/five-tribes-the-djinns-of-naqala
+2025-08-21 18:43:50 - INFO - Scraping completed for Five Tribes: The Djinns of Naqala in 57.90 seconds.
+2025-08-21 18:43:50 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:43:50 - INFO - ===========================================================================
+2025-08-21 18:43:55 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/322289/darwins-journey
+2025-08-21 18:44:05 - INFO - Now Scraping game 93: Darwin's Journey | URL: https://boardgamegeek.com/boardgame/322289/darwins-journey
+2025-08-21 18:44:12 - INFO - Scraping completed for Darwin's Journey in 21.87 seconds.
+2025-08-21 18:44:12 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:44:12 - INFO - ===========================================================================
+2025-08-21 18:44:16 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/201808/clank-a-deck-building-adventure
+2025-08-21 18:44:26 - INFO - Now Scraping game 94: Clank!: A Deck-Building Adventure | URL: https://boardgamegeek.com/boardgame/201808/clank-a-deck-building-adventure
+2025-08-21 18:44:45 - INFO - Scraping completed for Clank!: A Deck-Building Adventure in 33.23 seconds.
+2025-08-21 18:44:45 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:44:45 - INFO - ===========================================================================
+2025-08-21 18:44:49 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/159675/fields-of-arle
+2025-08-21 18:44:59 - INFO - Now Scraping game 95: Fields of Arle | URL: https://boardgamegeek.com/boardgame/159675/fields-of-arle
+2025-08-21 18:45:19 - INFO - Scraping completed for Fields of Arle in 33.37 seconds.
+2025-08-21 18:45:19 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:45:19 - INFO - ===========================================================================
+2025-08-21 18:45:22 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/366161/wingspan-asia
+2025-08-21 18:45:33 - INFO - Now Scraping game 96: Wingspan Asia | URL: https://boardgamegeek.com/boardgame/366161/wingspan-asia
+2025-08-21 18:45:52 - INFO - Scraping completed for Wingspan Asia in 33.13 seconds.
+2025-08-21 18:45:52 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:45:52 - INFO - ===========================================================================
+2025-08-21 18:45:55 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/72125/eclipse-new-dawn-for-the-galaxy
+2025-08-21 18:46:05 - INFO - Now Scraping game 97: Eclipse: New Dawn for the Galaxy | URL: https://boardgamegeek.com/boardgame/72125/eclipse-new-dawn-for-the-galaxy
+2025-08-21 18:46:25 - INFO - Scraping completed for Eclipse: New Dawn for the Galaxy in 33.40 seconds.
+2025-08-21 18:46:25 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:46:25 - INFO - ===========================================================================
+2025-08-21 18:46:28 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/191189/aeons-end
+2025-08-21 18:46:38 - INFO - Now Scraping game 98: Aeon's End | URL: https://boardgamegeek.com/boardgame/191189/aeons-end
+2025-08-21 18:47:02 - INFO - Scraping completed for Aeon's End in 36.71 seconds.
+2025-08-21 18:47:02 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:47:02 - INFO - ===========================================================================
+2025-08-21 18:47:07 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/93/el-grande
+2025-08-21 18:47:17 - INFO - Now Scraping game 99: El Grande | URL: https://boardgamegeek.com/boardgame/93/el-grande
+2025-08-21 18:47:31 - INFO - Scraping completed for El Grande in 29.23 seconds.
+2025-08-21 18:47:32 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:47:32 - INFO - ===========================================================================
+2025-08-21 18:47:35 - INFO - Accessing Webpage: https://boardgamegeek.com/boardgame/110327/lords-of-waterdeep
+2025-08-21 18:47:45 - INFO - Now Scraping game 100: Lords of Waterdeep | URL: https://boardgamegeek.com/boardgame/110327/lords-of-waterdeep
+2025-08-21 18:48:08 - INFO - Scraping completed for Lords of Waterdeep in 36.69 seconds.
+2025-08-21 18:48:08 - INFO - Records dumped in json file: boardgamegeek.json
+2025-08-21 18:48:08 - INFO - ===========================================================================
